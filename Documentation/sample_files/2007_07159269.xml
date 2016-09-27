@@ -1,0 +1,771 @@
+<!DOCTYPE us-patent-grant SYSTEM "us-patent-grant-v42-2006-08-23.dtd">
+<html>
+ <body>
+  <p>
+   ]&gt;
+   <us-patent-grant country="US" date-produced="20070131" date-publ="20070109" dtd-version="v4.2 2006-08-23" file="US07159269-20070109.XML" id="us-patent-grant" lang="EN" status="PRODUCTION">
+    <us-bibliographic-data-grant>
+     <publication-reference>
+      <document-id>
+       <country>
+        US
+       </country>
+       <doc-number>
+        07159269
+       </doc-number>
+       <kind>
+        B2
+       </kind>
+       <date>
+        20070109
+       </date>
+      </document-id>
+     </publication-reference>
+     <application-reference appl-type="utility">
+      <document-id>
+       <country>
+        US
+       </country>
+       <doc-number>
+        10647509
+       </doc-number>
+       <date>
+        20030826
+       </date>
+      </document-id>
+     </application-reference>
+     <us-application-series-code>
+      10
+     </us-application-series-code>
+     <us-term-of-grant>
+      <us-term-extension>
+       309
+      </us-term-extension>
+     </us-term-of-grant>
+     <classifications-ipcr>
+      <classification-ipcr>
+       <ipc-version-indicator>
+        <date>
+         20060101
+        </date>
+       </ipc-version-indicator>
+       <classification-level>
+        A
+       </classification-level>
+       <section>
+        B
+       </section>
+       <class>
+        60
+       </class>
+       <subclass>
+        S
+       </subclass>
+       <main-group>
+        1
+       </main-group>
+       <subgroup>
+        38
+       </subgroup>
+       <symbol-position>
+        F
+       </symbol-position>
+       <classification-value>
+        I
+       </classification-value>
+       <action-date>
+        <date>
+         20070109
+        </date>
+       </action-date>
+       <generating-office>
+        <country>
+         US
+        </country>
+       </generating-office>
+       <classification-status>
+        B
+       </classification-status>
+       <classification-data-source>
+        H
+       </classification-data-source>
+      </classification-ipcr>
+     </classifications-ipcr>
+     <classification-national>
+      <country>
+       US
+      </country>
+      <main-classification>
+       15250452
+      </main-classification>
+      <further-classification>
+       15250451
+      </further-classification>
+      <further-classification>
+       1525044
+      </further-classification>
+      <further-classification>
+       298972
+      </further-classification>
+      <further-classification>
+       29557
+      </further-classification>
+      <further-classification>
+       72129
+      </further-classification>
+      <further-classification>
+       72130
+      </further-classification>
+     </classification-national>
+     <invention-title id="d0e53">
+      Backing strip for windshield wiper
+     </invention-title>
+     <references-cited>
+      <citation>
+       <patcit num="00001">
+        <document-id>
+         <country>
+          US
+         </country>
+         <doc-number>
+          3386123
+         </doc-number>
+         <kind>
+          A
+         </kind>
+         <name>
+          Oishei et al.
+         </name>
+         <date>
+          19680600
+         </date>
+        </document-id>
+       </patcit>
+       <category>
+        cited by examiner
+       </category>
+       <classification-national>
+        <country>
+         US
+        </country>
+        <main-classification>
+         15250452
+        </main-classification>
+       </classification-national>
+      </citation>
+      <citation>
+       <patcit num="00002">
+        <document-id>
+         <country>
+          US
+         </country>
+         <doc-number>
+          3616485
+         </doc-number>
+         <kind>
+          A
+         </kind>
+         <name>
+          Quinlan et al.
+         </name>
+         <date>
+          19711100
+         </date>
+        </document-id>
+       </patcit>
+       <category>
+        cited by other
+       </category>
+      </citation>
+      <citation>
+       <patcit num="00003">
+        <document-id>
+         <country>
+          US
+         </country>
+         <doc-number>
+          4782549
+         </doc-number>
+         <kind>
+          A
+         </kind>
+         <name>
+          Beneteau et al.
+         </name>
+         <date>
+          19881100
+         </date>
+        </document-id>
+       </patcit>
+       <category>
+        cited by examiner
+       </category>
+       <classification-national>
+        <country>
+         US
+        </country>
+        <main-classification>
+         15250452
+        </main-classification>
+       </classification-national>
+      </citation>
+      <citation>
+       <patcit num="00004">
+        <document-id>
+         <country>
+          US
+         </country>
+         <doc-number>
+          4796326
+         </doc-number>
+         <kind>
+          A
+         </kind>
+         <name>
+          Beneteau et al.
+         </name>
+         <date>
+          19890100
+         </date>
+        </document-id>
+       </patcit>
+       <category>
+        cited by examiner
+       </category>
+       <classification-national>
+        <country>
+         US
+        </country>
+        <main-classification>
+         15250452
+        </main-classification>
+       </classification-national>
+      </citation>
+      <citation>
+       <patcit num="00005">
+        <document-id>
+         <country>
+          US
+         </country>
+         <doc-number>
+          5231730
+         </doc-number>
+         <kind>
+          A
+         </kind>
+         <name>
+          Schmid et al.
+         </name>
+         <date>
+          19930800
+         </date>
+        </document-id>
+       </patcit>
+       <category>
+        cited by other
+       </category>
+      </citation>
+      <citation>
+       <patcit num="00006">
+        <document-id>
+         <country>
+          US
+         </country>
+         <doc-number>
+          5598603
+         </doc-number>
+         <kind>
+          A
+         </kind>
+         <name>
+          Mege et al.
+         </name>
+         <date>
+          19970200
+         </date>
+        </document-id>
+       </patcit>
+       <category>
+        cited by examiner
+       </category>
+       <classification-national>
+        <country>
+         US
+        </country>
+        <main-classification>
+         15250454
+        </main-classification>
+       </classification-national>
+      </citation>
+      <citation>
+       <patcit num="00007">
+        <document-id>
+         <country>
+          US
+         </country>
+         <doc-number>
+          5697156
+         </doc-number>
+         <kind>
+          A
+         </kind>
+         <name>
+          Buechele
+         </name>
+         <date>
+          19971200
+         </date>
+        </document-id>
+       </patcit>
+       <category>
+        cited by other
+       </category>
+      </citation>
+      <citation>
+       <patcit num="00008">
+        <document-id>
+         <country>
+          US
+         </country>
+         <doc-number>
+          6112365
+         </doc-number>
+         <kind>
+          A
+         </kind>
+         <name>
+          Ullrich et al.
+         </name>
+         <date>
+          20000900
+         </date>
+        </document-id>
+       </patcit>
+       <category>
+        cited by examiner
+       </category>
+       <classification-national>
+        <country>
+         US
+        </country>
+        <main-classification>
+         15250454
+        </main-classification>
+       </classification-national>
+      </citation>
+      <citation>
+       <patcit num="00009">
+        <document-id>
+         <country>
+          US
+         </country>
+         <doc-number>
+          6185805
+         </doc-number>
+         <kind>
+          B1
+         </kind>
+         <name>
+          Rosiere et al.
+         </name>
+         <date>
+          20010200
+         </date>
+        </document-id>
+       </patcit>
+       <category>
+        cited by other
+       </category>
+      </citation>
+      <citation>
+       <patcit num="00010">
+        <document-id>
+         <country>
+          US
+         </country>
+         <doc-number>
+          2002/0050019
+         </doc-number>
+         <kind>
+          A1
+         </kind>
+         <name>
+          Orjela et al.
+         </name>
+         <date>
+          20020500
+         </date>
+        </document-id>
+       </patcit>
+       <category>
+        cited by examiner
+       </category>
+       <classification-national>
+        <country>
+         US
+        </country>
+        <main-classification>
+         15250452
+        </main-classification>
+       </classification-national>
+      </citation>
+      <citation>
+       <patcit num="00011">
+        <document-id>
+         <country>
+          DE
+         </country>
+         <doc-number>
+          3208749
+         </doc-number>
+         <date>
+          19821000
+         </date>
+        </document-id>
+       </patcit>
+       <category>
+        cited by examiner
+       </category>
+      </citation>
+      <citation>
+       <patcit num="00012">
+        <document-id>
+         <country>
+          EP
+         </country>
+         <doc-number>
+          0465095
+         </doc-number>
+         <date>
+          19900600
+         </date>
+        </document-id>
+       </patcit>
+       <category>
+        cited by examiner
+       </category>
+      </citation>
+     </references-cited>
+     <number-of-claims>
+      18
+     </number-of-claims>
+     <us-exemplary-claim>
+      1
+     </us-exemplary-claim>
+     <us-field-of-classification-search>
+      <classification-national>
+       <country>
+        US
+       </country>
+       <main-classification>
+        15250451
+       </main-classification>
+      </classification-national>
+      <classification-national>
+       <country>
+        US
+       </country>
+       <main-classification>
+        1525044
+       </main-classification>
+      </classification-national>
+      <classification-national>
+       <country>
+        US
+       </country>
+       <main-classification>
+        1525043
+       </main-classification>
+      </classification-national>
+      <classification-national>
+       <country>
+        US
+       </country>
+       <main-classification>
+        15250452
+       </main-classification>
+      </classification-national>
+      <classification-national>
+       <country>
+        US
+       </country>
+       <main-classification>
+        1525048
+       </main-classification>
+      </classification-national>
+      <classification-national>
+       <country>
+        US
+       </country>
+       <main-classification>
+        15250453
+       </main-classification>
+      </classification-national>
+      <classification-national>
+       <country>
+        US
+       </country>
+       <main-classification>
+        298972
+       </main-classification>
+      </classification-national>
+      <classification-national>
+       <country>
+        US
+       </country>
+       <main-classification>
+        29557
+       </main-classification>
+      </classification-national>
+      <classification-national>
+       <country>
+        US
+       </country>
+       <main-classification>
+        29558
+       </main-classification>
+      </classification-national>
+      <classification-national>
+       <country>
+        US
+       </country>
+       <main-classification>
+        72129
+       </main-classification>
+      </classification-national>
+      <classification-national>
+       <country>
+        US
+       </country>
+       <main-classification>
+        72130
+       </main-classification>
+      </classification-national>
+     </us-field-of-classification-search>
+     <figures>
+      <number-of-drawing-sheets>
+       4
+      </number-of-drawing-sheets>
+      <number-of-figures>
+       7
+      </number-of-figures>
+     </figures>
+     <us-related-documents>
+      <related-publication>
+       <document-id>
+        <country>
+         US
+        </country>
+        <doc-number>
+         20050044651
+        </doc-number>
+        <kind>
+         A1
+        </kind>
+        <date>
+         20050303
+        </date>
+       </document-id>
+      </related-publication>
+     </us-related-documents>
+     <parties>
+      <applicants>
+       <applicant app-type="applicant-inventor" designation="us-only" sequence="001">
+        <addressbook>
+         <last-name>
+          Lee
+         </last-name>
+         <first-name>
+          Albert
+         </first-name>
+         <address>
+          <street>
+           510 E. Presion St.
+          </street>
+          <city>
+           Baltimore
+          </city>
+          <state>
+           MD
+          </state>
+          <postcode>
+           21202
+          </postcode>
+          <country>
+           US
+          </country>
+         </address>
+        </addressbook>
+        <nationality>
+         <country>
+          omitted
+         </country>
+        </nationality>
+        <residence>
+         <country>
+          US
+         </country>
+        </residence>
+       </applicant>
+      </applicants>
+      <agents>
+       <agent rep-type="attorney" sequence="01">
+        <addressbook>
+         <orgname>
+          Birch, Stewart, Kolasch &amp; Birch, LLP
+         </orgname>
+         <address>
+          <country>
+           unknown
+          </country>
+         </address>
+        </addressbook>
+       </agent>
+      </agents>
+     </parties>
+     <examiners>
+      <primary-examiner>
+       <last-name>
+        Graham
+       </last-name>
+       <first-name>
+        Gary K.
+       </first-name>
+       <department>
+        1744
+       </department>
+      </primary-examiner>
+     </examiners>
+    </us-bibliographic-data-grant>
+    <abstract id="abstract">
+     A backing strip for a windshield wiper assembly includes a pair of rails. Each of the pair of rails includes a body portion and a detent portion. The detent portion includes a cut-out on each side thereof. The cut-outs are generally symmetric with each other and form a pair of hooks on each side of said detent portion. The cut-out on one side of the detent portion of each of said rails is for receiving a claw of the windshield wiper assembly and the hooks on the opposite side of the detent portion of each of the rails are for engaging a windshield wiper blade of the windshield wiper assembly.
+    </abstract>
+    <drawings id="DRAWINGS">
+    </drawings>
+    <description id="description">
+     BACKGROUND OF THE INVENTION
+1. Field of the Invention
+The present invention relates to a backing strip for a windshield wiper assembly. In particular, the present invention is directed to a backing strip for a windshield wiper assembly which stiffens the windshield wiper blade while allowing the windshield wiper blade to flex to conform to the curvature of a windshield of a vehicle. The present invention is also directed to a rail for a backing strip for a windshield wiper assembly and a method of manufacturing a rail for a backing strip for a windshield wiper assembly.
+2. Description of Related Art
+Various types of backing strips for windshield wiper assemblies are known. For example, U.S. Pat. No. 6,185,805 is directed to a method of forming a windshield wiper. The windshield wiper includes a wiping blade having two recesses for receiving a pair of backing strips. The backing strips include two teeth for retaining the backing strip and two stops which receive a claw of the windshield wiper. However, the stops which are formed on one side of each of the backing strips must be used such that they face outwardly to receive the claw of the windshield wiper. In view of this, it is not possible to use the backing strips such that either side of the backing strips can receive the claw of the windshield wiper.
+In addition, U.S. Pat. No. 5,231,730 is directed to a wiper blade with a reinforcing rail locating means. The rails include recesses on opposite sides thereof that are located at opposite ends of the rail. This provides reversibility of the rails. However, the recesses in the rails are not for receiving a claw of a windshield wiper assembly, but are for receiving an increased thickness portion of the wiper blade. In view of this, the rails can only be used with a non-extruded wiper blade.
+SUMMARY OF THE INVENTION
+Accordingly, it is an object of the present invention to provide a backing strip for a windshield wiper assembly, which eliminates the above problems encountered with conventional windshield wiper frame connectors.
+It is another object of the present invention to provide a backing strip for a windshield wiper assembly which includes rails having a detent portion on only one end. This allows the manufacture of a single rail, which can be used on either side of a windshield wiper blade to secure the windshield wiper blade to a windshield wiper assembly.
+It is yet another object of the present invention to provide a backing strip for a windshield wiper assembly which can be used with an extruded windshield wiper blade and prevent the windshield wiper blade from sliding with respect to the remaining portions of the windshield wiper assembly.
+It is a further object of the present invention to provide backing strip for a windshield wiper assembly, which includes rails having a detent portion with a pair of symmetric cut-outs which form a central portion therebetween. The central portion is preferably formed to have a width, which is wider than a body of the rail to increase the amount of force applied by the claw of the windshield wiper assembly.
+It is an additional object of the present invention to provide a backing strip for a windshield wiper assembly, which is inexpensive and easy to manufacture. In addition, it is an object of the present invention to provide a backing strip for a windshield wiper assembly which requires only one type of rail that can be used on either side of a windshield wiper blade.
+The above objects are accomplished by a backing strip for windshield wiper assembly, comprising a pair of rails, each of said pair of rails including a body portion and a detent portion, said detent portion including a cut-out on each side thereof, said cut-outs being generally symmetric with each other and forming a pair of hooks on each side of said detent portion, wherein the cut-out on one side of said detent portion of each of said rails is for receiving a claw of the windshield wiper assembly and the hooks on the opposite side of the detent portion of each of the rails are for engaging a windshield wiper blade of the windshield wiper assembly.
+The above objects are also accomplished by a rail for a backing strip for a windshield wiper assembly, comprising a body portion and a detent portion, said detent portion including a cut-out on each side thereof, said cut-outs being generally symmetric with each other and forming a pair of hooks on each side of said detent portion, wherein the cut-out on one side of said detent portion is for receiving a claw of the windshield wiper assembly and the hooks on the opposite side of the detent portion are for engaging a windshield wiper blade of the windshield wiper assembly.
+The above objects are also accomplished by a method of manufacturing a rail for a backing strip for a windshield wiper assembly, said method comprising the steps of forming a body member having a generally rectangular cross-section; stamping a portion of said body member to form a decreased thickness portion; and cutting out a portion of said decreased thickness portion to form a detent portion having a cut-out on each side thereof, said cut-outs being generally symmetric with each other and forming a pair of hooks on each side of said detent portion, wherein the cut-out on one side of said detent portion is for receiving a claw of the windshield wiper assembly and the hooks on the opposite side of the detent portion is for engaging a windshield wiper blade of the windshield wiper assembly
+Further scope of applicability of the present invention will become apparent from the detailed description given hereinafter. It should be understood, however, that the detailed description and specific examples, while indicating preferred embodiments of the invention, are given by way of illustration only, since various changes and modifications within the spirit and scope of the invention will become apparent to those skilled in the art from this detailed description.
+
+BRIEF DESCRIPTION OF THE DRAWINGS
+The present invention will become more fully understood from the detailed description given hereinbelow and the accompanying drawings which are given by way of illustration only, and thus, are not limitative of the present invention, and wherein:
+FIG. 1 is a top view of a backing strip for a windshield wiper according to the present invention;
+FIG. 2A is a cross-sectional view along the line 2—2 of FIG. 1 according to a first embodiment of the present invention;
+FIG. 2B is a cross-sectional view along the line 2—2 of FIG. 1 according to a second embodiment of the present invention;
+FIG. 2C is a cross-sectional view along the line 2—2 of FIG. 1 according to a third embodiment of the present invention;
+FIG. 3 is a cross-sectional view of the first embodiment of the present invention in use on a windshield wiper assembly;
+FIG. 4 is a cross-sectional view of the third embodiment of the present invention in use on a windshield wiper assembly; and
+FIG. 5 is an explanatory perspective view of the first embodiment of the present invention.
+
+DETAILED DESCRIPTION OF THE PREFERRED EMBODIMENTS
+Referring now in detail to the accompanying drawings, the preferred embodiments of the present invention will be described. Referring to FIG. 1, a rail 1 includes a body portion 3 and a detent portion 5. The body 3 of the rail 1 is elongated, flat and generally rectangular in cross-section. The detent portion 5 is formed adjacent only one end of the body 3.
+The rail 1 of the present invention can be formed of any material that can provide the necessary rigidity to a windshield wiper blade, while permitting the windshield wiper blade to conform to the curvature of the windshield of a vehicle. It is preferred that the rail 1 of the present invention be constructed from stainless steel; however, other materials will be readily understood to one having ordinary skill in the art.
+Referring to the enlarged portion of FIG. 1, the detent portion 5 includes a pair of cut-outs 7, which form a pair of hooks 9 on each side of the detent portion 5. Referring to FIGS. 3–5 of the present invention, a rail 1 is received in a windshield wiper blade 13 of a windshield wiper assembly on each of opposite sides thereof. The windshield wiper blade 13 can also be referred to as a squeegee or rubber squeegee. Specifically, the rails 1 are received in slots 15 formed in sides of the windshield wiper blade 13. A claw 17 of the windshield wiper assembly is received in the detent portions 5 of each of the rails 1. Specifically, the outer openings 7 in each of the detent portions 5 of the rails 1 receive the claw 17 of the windshield wiper assembly, while the inner hooks 9 of the detent portion in each of the rails 1 cooperate with each other to secure the windshield wiper blade 13 therebetween.
+Referring to FIGS. 2A and 3 of the present invention, the rails 1 according to the first embodiment of the present invention include hooks 9 extending outwardly from a top of the detent portion 5 and hooks 9 extending from a bottom of the detent portion 5. When the rails 1 are mounted to the windshield wiper blade 13, the top hooks 9 in one rail 1 are oriented to extend toward a center of the windshield wiper assembly and the top hooks 9 in the opposite rail 1 are oriented to extend away from the center of the windshield wiper assembly. In view of this, when the claw 15 is received within the cut-outs 7, the hooks 9 in each of the rails 1 cooperate with each other to secure the windshield wiper blade 13 therebetween.
+Referring to FIG. 3, the windshield wiper blade 13 is made of a flexible material. In view of this, when the claw 17 is secured within the detent portions 5 of the rails 1, the material of the windshield wiper blade 13 flexes and the hooks 9 push into the material of the windshield wiper blade 13 to secure the windshield wiper blade 13 to the windshield wiper assembly in a secure manner. In view of this, the windshield wiper blade 13 is prevented from sliding with respect to the claw 17 and therefore the windshield wiper assembly.
+It should be noted that it is preferred that the hooks 9 of the opposite rails 1 overlap each other with the material of the windshield wiper blade 13 being located therebetween. In FIG. 3, the hooks are not illustrated in overlapping manner; however, it is preferred that each of the hooks 9 of the rails 1 cross over the center line 19, so that the hooks 9 overlap each other. This provides a more secure attachment of the rails 1 to the windshield wiper blade 13.
+Referring to FIG. 3, the material of the windshield wiper blade 3 bulges at 21 to permit the hooks 9 to overlap with each other when the rails are secured by the claw 17. Since the opposite rails 1 include hooks that are displaced vertically from each other, rather than aligned with each other, the material of the windshield wiper blade 13 is allowed to be displaced to form the bulges 21. This bulging of the windshield wiper blade 13 further secures the rails 1 to the windshield wiper blade 13.
+Referring again to FIG. 1 of the present invention, a central portion of the detent portion 1 is formed to have a width which is greater than a width of the body 3. In view of this, when the claw 17 is mounted within the cut-outs 7 of the detent portion 5 of the rails 1, a force applied to rails 1 is increased, such that the rails 1 are pushed further inward toward the center of the windshield wiper assembly. It should be understood that increasing the width of the central portion in conjunction with decreasing the width of the claw 17 will control the amount of overlap, if any, of the hooks 9 of the cooperating rails 1.
+Referring to FIG. 2B of the present invention, the second embodiment of will be described. FIG. 2B is a cross-section along the lines 2—2 of FIG. 1 and illustrates the second embodiment of the present invention which includes a top portion of the detent portion 5 having a thickness which is decreased across an entire width. In view of this, the hooks 9 on one side of the rail 1 are thicker than the hooks 9 on the opposite side of the rail 1. Accordingly, when the rails 1 according to the second embodiment of the present invention are mounted to the windshield wiper blade 13, the thicker hooks 9 on one rail cooperate with the thinner hooks of the opposite rail to secure the material of the windshield wiper blade 13 therebetween. The second embodiment of the present invention has not been illustrated in use with the windshield wiper blade 13; however, the operation can easily be understood from a review of FIG. 3.
+Referring to FIG. 2C of the present invention, the third embodiment of the present invention is illustrate. FIG. 2C is also a cross-section along the line 2—2 of FIG. 1. Referring to FIG. 2C, the cross-section of the detent portion 5 of the rail 1 is the same as the second embodiment of FIG. 2C, except that the hooks 9 on one side have been bent upwardly and the hooks 9 on the opposite side have been bent downwardly.
+Referring to FIG. 4 of the present invention, the third embodiment of the present invention is illustrated schematically in use. Specifically, the rails 1 are mounted in the slots 15 of the windshield wiper blade 13. The rail 1 on one side of the windshield wiper blade 13 is mounted such that the hooks having an upward bend extend toward the center line 19, while the rail 1 on the opposite side is mounted such that the hooks having a downward bend extend toward the center line 19. In view of this, when the claw 17 is received within the openings 7 in each of the rails 1, the inner hooks of the rails 1 overlap each other and secure the windshield wiper blade 13 therebetween
+The rail 1 according to the first embodiment of the present invention is manufactured by forming a generally rectangular base member. A portion of the base member is stamped to decrease the thickness of the base member and therefore form the base portion 3 and the decreased thickness portion which will be used for the detent portion 5.
+In FIG. 2A, the stamping is carried out by a top die and a bottom die (not shown) that have raised portions to form the decreased thickness portion to have the cross-sectional shape illustrated in FIG. 2A. Specifically, the stamping is carried out to form a decreased thickness portion 23 on the bottom on one side of the detent portion 5 and a decreased thickness portion 25 on the top on the opposite side of the detent portion 5.
+As an alternative, the bottom die can be flat and the top die can have raised portions to form the decreased thickness portion into the shape illustrated in FIG. 2B. Specifically, the stamping is carried out to form a decreased thickness portion 23 on one side of the detent portion 5 which is thinner than a decreased thickness portion 25 on the opposite side of the detent portion 5.
+The next step in the manufacture of the rail 1 is to cut out portions of the decreased thickness portions 23, 25 on each side of the detent portion 5 to form the cut-outs 7. In FIGS. 2A and 2B, the cut-outs are formed without bending the hooks 9, while in FIG. 2C, the cut-outs are formed at the same time as the hooks on one side of the rail 1 bent upwardly and the hooks 9 on the opposite side are bent downwardly. The cutting and bending in the third embodiment of FIG. 2C can easily be performed by a die having a cutting portion and a bending portion (not shown).
+Referring to FIG. 5, the first embodiment of the present invention is illustrated in perspective view along with a windshield wiper blade 13. As identified by the arrow, the rail 1 is inserted into the slot 15 on each side of the windshield wiper blade 13. The inner hooks 9 of the illustrated rail 1 (the other rail is not shown) engage a bottom of the inner wall of the slot 15, since the inner hooks 9 extend from a bottom of the detent portion 5. As can be understood, the rail on the opposite side would have the inner hooks 9 extending from the top side of the detent portion 5 so that the inner rails 9 of the two rails cooperate with each other to secure the windshield wiper blade 13 therebetween. This arrangement is clearly illustrated in FIG. 3.
+After the rails 1 are inserted into the slots 15, the claw 17 is secured within the outer cut-outs in each of the rails 1. This forces the inner hooks 9 to overlap with each other to strongly secure the windshield wiper blade 13 to the rails 1 to prevent sliding of the windshield wiper blade 13.
+The invention being thus described, it will be obvious that the same may be varied in many ways. Such variations are not to be regarded as a departure from the spirit and scope of the invention, and all such modifications as would be obvious to one skilled in the art are intended to be included within the scope of the following claims.
+    </description>
+    <us-claim-statement>
+     What is claimed is:
+    </us-claim-statement>
+    <claims id="claims">
+     <claim id="CLM-00001" num="00001">
+      1. A backing strip for a windshield wiper assembly, comprising:
+a pair of rails, each of said pair of rails including a body portion and a detent portion, said detent portion including a cut-out on each side thereof, said cut-outs being generally symmetric with each other and forming a pair of hooks on each side of said detent portion,
+wherein the cut-out on one side of said detent portion of each of said rails is for receiving a claw of the windshield wiper assembly and the hooks on the opposite side of the detent portion of each of the rails are for engaging a windshield wiper blade of the windshield wiper assembly, and
+wherein the pair of hooks on one side of said detent portion extends outwardly from a top of said detent portion and the pair of hooks on the other side of said detent portion extends outwardly from a bottom of said detent portion.
+     </claim>
+     <claim id="CLM-00002" num="00002">
+      2. The backing strip for a windshield wiper assembly according to claim 1, wherein said detent portion includes at least a portion thereof which is decreased in thickness with respect to a thickness of said body portion.
+     </claim>
+     <claim id="CLM-00003" num="00003">
+      3. The backing strip for a windshield wiper assembly according to claim 1, wherein a first of said pair of rails can include the top hooks oriented toward a center of the windshield wiper blade and a second of said pair of rails can include the top hooks oriented away from the center of the windshield wiper blade such that the top hooks of the first rail overlap with the bottom hooks of the second rail when said pair of rails is mounted to the windshield wiper assembly.
+     </claim>
+     <claim id="CLM-00004" num="00004">
+      4. The backing strip for a windshield wiper assembly according to claim 1, wherein said detent portion includes a central portion formed between said cut-outs and a width of said central portion is greater than a width of said body portion.
+     </claim>
+     <claim id="CLM-00005" num="00005">
+      5. The backing strip for a windshield wiper assembly according to claim 1, wherein each of said hooks has an internal edge formed by a respective cut-out which is non-perpendicular to a longitudinal direction of said body.
+     </claim>
+     <claim id="CLM-00006" num="00006">
+      6. The backing strip for a windshield wiper assembly according to claim 5, wherein said internal edge is formed at an angle of 85° or less with respect to the longitudinal direction of said body.
+     </claim>
+     <claim id="CLM-00007" num="00007">
+      7. A backing strip for a windshield wiper assembly, comprising:
+a pair of rails, each of said pair of rails including a body portion and a detent portion, said detent portion including a cut-out on each side thereof, said cut-outs being generally symmetric with each other and forming a pair of hooks on each side of said detent portion,
+wherein the cut-out on one side of said detent portion of each of said rails is for receiving a claw of the windshield wiper assembly and the hooks on the opposite side of the detent portion of each of the rails are for engaging a windshield wiper blade of the windshield wiper assembly, and
+wherein said pair of hooks on one side of said detent portion is bent in an upward direction and said pair of hooks on the other side of said detent portion is bent in a downward direction.
+     </claim>
+     <claim id="CLM-00008" num="00008">
+      8. The backing strip for a windshield wiper assembly according to claim 7, wherein the pair of hooks on one side of said detent portion is thicker than the pair of hooks on the other side of the detent portion.
+     </claim>
+     <claim id="CLM-00009" num="00009">
+      9. The backing strip for a windshield wiper assembly according to claim 8, wherein a first of said pair of rails can include the thicker hooks oriented toward a center of the windshield wiper blade and a second of said pair of rails can include the thicker hooks oriented away from center of the windshield wiper blade such that the thicker hooks of the first rail overlap with the thinner hooks of the second rail when said pair of rails is mounted to the windshield wiper assembly.
+     </claim>
+     <claim id="CLM-00010" num="00010">
+      10. A rail for a backing strip for a windshield wiper assembly, comprising:
+a body portion and a detent portion, said detent portion including a cut-out on each side thereof, said cut-outs being generally symmetric with each other and forming a pair of hooks on each side of said detent portion,
+wherein the cut-out on one side of said detent portion is for receiving a claw of the windshield wiper assembly and the hooks on the opposite side of the detent portion are for engaging a windshield wiper blade of the windshield wiper assembly, and
+wherein the pair of hooks on one side of said detent portion extend outwardly from a top of said detent portion and the pair of hooks on the other side of said detent portion extends outwardly from a bottom of said detent portion.
+     </claim>
+     <claim id="CLM-00011" num="00011">
+      11. The rail for a backing strip for a windshield wiper assembly according to claim 10, wherein said detent portion includes at least a portion thereof which is decreased in thickness with respect to a thickness of said body portion.
+     </claim>
+     <claim id="CLM-00012" num="00012">
+      12. The rail for a backing strip for a windshield wiper assembly according to claim 10, wherein said detent portion includes a central portion formed between said cut-outs and a width of said central portion is greater than a width of said body portion.
+     </claim>
+     <claim id="CLM-00013" num="00013">
+      13. The rail for a backing strip for a windshield wiper assembly according to claim 10, wherein each of said hooks has an internal edge formed by the cut-out which is non-perpendicular to a longitudinal direction of said body.
+     </claim>
+     <claim id="CLM-00014" num="00014">
+      14. The rail for a backing strip for a windshield wiper assembly according to claim 13, wherein said internal edge is formed at an angle of 85° or less with respect to the longitudinal direction of said body.
+     </claim>
+     <claim id="CLM-00015" num="00015">
+      15. A rail for a backing strip for a windshield wiper assembly, comprising:
+a body portion and a detent portion, said detent portion including a cut-out on each side thereof, said cut-outs being generally symmetric with each other and forming a pair of hooks on each side of said detent portion.
+wherein the cut-out on one side of said detent portion is for receiving a claw of the windshield wiper assembly and the hooks on the opposite side of the detent portion are for engaging a windshield wiper blade of the windshield wiper assembly, and
+wherein said pair of hooks on one side of said detent portion is bent in an upward direction and said pair of hooks on the other side of said detent portion is bent in a downward direction.
+     </claim>
+     <claim id="CLM-00016" num="00016">
+      16. The rail for a backing strip for a windshield wiper assembly according to claim 15, wherein the pair of hooks on one side of said detent portion is thicker than the pair of hooks on the other side of the detent portion.
+     </claim>
+     <claim id="CLM-00017" num="00017">
+      17. A windshield wiper assembly, comprising:
+a windshield wiper claw;
+a windshield wiper blade; and
+a pair of rails, each of said pair of rails including a body portion and a detent portion, said detent portion including a cut-out on each side thereof, said cut-outs forming a pair of hooks on each side of said detent portion, at least a portion of said detent portion being decreased in thickness with respect to said body portion,
+wherein the pair of rails are oriented so that the hooks on one side of the detent portion of a first of the pair of rails extend outwardly from a top of the first rail to engage the windshield wiper claw and the hooks on one side of the detent portion of a second of the pair of rails extend outwardly from a bottom of the second rail to engage the windshield wiper claw.
+     </claim>
+     <claim id="CLM-00018" num="00018">
+      18. The windshield wiper assembly according to claim 17, wherein the pair of rails are oriented so that the hooks on a second side of the detent portion of the first rail extend inwardly from a top of the first rail to engage the windshield wiper blade and the hooks on a second side of the detent portion of the second rail extend inwardly from a bottom of the second rail to engage the windshield wiper blade.
+     </claim>
+    </claims>
+   </us-patent-grant>
+  </p>
+ </body>
+</html>

@@ -1,0 +1,626 @@
+<!DOCTYPE us-patent-grant SYSTEM "us-patent-grant-v40-2004-12-02.dtd">
+<html>
+ <body>
+  <p>
+   ]&gt;
+   <us-patent-grant country="US" date-produced="20041228" date-publ="20050111" dtd-version="v40 2004-12-02" file="US06839963-20050111.XML" id="us-patent-grant" lang="EN" status="SAMPLE-DATA">
+    <us-bibliographic-data-grant>
+     <publication-reference>
+      <document-id>
+       <country>
+        US
+       </country>
+       <doc-number>
+        06839963
+       </doc-number>
+       <kind>
+        B1
+       </kind>
+       <date>
+        20050111
+       </date>
+      </document-id>
+     </publication-reference>
+     <application-reference appl-type="utility">
+      <document-id>
+       <country>
+        US
+       </country>
+       <doc-number>
+        09457701
+       </doc-number>
+       <date>
+        19991209
+       </date>
+      </document-id>
+     </application-reference>
+     <us-application-series-code>
+      09
+     </us-application-series-code>
+     <priority-claims>
+      <priority-claim kind="national" sequence="01">
+       <country>
+        DE
+       </country>
+       <doc-number>
+        195 27 359
+       </doc-number>
+       <date>
+        19950726
+       </date>
+      </priority-claim>
+     </priority-claims>
+     <classification-ipc>
+      <edition>
+       7
+      </edition>
+      <main-classification>
+       H01K  310
+      </main-classification>
+     </classification-ipc>
+     <classification-national>
+      <country>
+       US
+      </country>
+      <main-classification>
+       29852
+      </main-classification>
+      <further-classification>
+       29846
+      </further-classification>
+      <further-classification>
+       29606
+      </further-classification>
+      <further-classification>
+       361736
+      </further-classification>
+      <further-classification>
+       361737
+      </further-classification>
+      <further-classification>
+       235492
+      </further-classification>
+      <further-classification>
+       343895
+      </further-classification>
+      <further-classification>
+       257679
+      </further-classification>
+     </classification-national>
+     <invention-title id="d0e61">
+      Method for producing a circuit unit
+     </invention-title>
+     <references-cited>
+      <citation>
+       <patcit num="00001">
+        <document-id>
+         <country>
+          US
+         </country>
+         <doc-number>
+          4960983
+         </doc-number>
+         <kind>
+          A
+         </kind>
+         <name>
+          Inoue
+         </name>
+         <date>
+          19901000
+         </date>
+        </document-id>
+       </patcit>
+       <category>
+        cited by other
+       </category>
+      </citation>
+      <citation>
+       <patcit num="00002">
+        <document-id>
+         <country>
+          US
+         </country>
+         <doc-number>
+          4999742
+         </doc-number>
+         <kind>
+          A
+         </kind>
+         <name>
+          Stampfli
+         </name>
+         <date>
+          19910300
+         </date>
+        </document-id>
+       </patcit>
+       <category>
+        cited by other
+       </category>
+      </citation>
+      <citation>
+       <patcit num="00003">
+        <document-id>
+         <country>
+          US
+         </country>
+         <doc-number>
+          5071509
+         </doc-number>
+         <kind>
+          A
+         </kind>
+         <name>
+          Kano et al.
+         </name>
+         <date>
+          19911200
+         </date>
+        </document-id>
+       </patcit>
+       <category>
+        cited by examiner
+       </category>
+       <classification-national>
+        <country>
+         US
+        </country>
+        <main-classification>
+         216 18
+        </main-classification>
+       </classification-national>
+      </citation>
+      <citation>
+       <patcit num="00004">
+        <document-id>
+         <country>
+          US
+         </country>
+         <doc-number>
+          6176010
+         </doc-number>
+         <kind>
+          B1
+         </kind>
+         <name>
+          Droz
+         </name>
+         <date>
+          20010100
+         </date>
+        </document-id>
+       </patcit>
+       <category>
+        cited by examiner
+       </category>
+       <classification-national>
+        <country>
+         US
+        </country>
+        <main-classification>
+         29832
+        </main-classification>
+       </classification-national>
+      </citation>
+      <citation>
+       <patcit num="00005">
+        <document-id>
+         <country>
+          DE
+         </country>
+         <doc-number>
+          4416697
+         </doc-number>
+         <date>
+          19951100
+         </date>
+        </document-id>
+       </patcit>
+       <category>
+        cited by other
+       </category>
+      </citation>
+      <citation>
+       <patcit num="00006">
+        <document-id>
+         <country>
+          DE
+         </country>
+         <doc-number>
+          4428732
+         </doc-number>
+         <date>
+          19960100
+         </date>
+        </document-id>
+       </patcit>
+       <category>
+        cited by other
+       </category>
+      </citation>
+      <citation>
+       <patcit num="00007">
+        <document-id>
+         <country>
+          EP
+         </country>
+         <doc-number>
+          547563
+         </doc-number>
+         <date>
+          19921200
+         </date>
+        </document-id>
+       </patcit>
+       <category>
+        cited by other
+       </category>
+      </citation>
+      <citation>
+       <patcit num="00008">
+        <document-id>
+         <country>
+          FR
+         </country>
+         <doc-number>
+          2 621 147
+         </doc-number>
+         <date>
+          19890300
+         </date>
+        </document-id>
+       </patcit>
+       <category>
+        cited by other
+       </category>
+      </citation>
+      <citation>
+       <patcit num="00009">
+        <document-id>
+         <country>
+          JP
+         </country>
+         <doc-number>
+          06336096
+         </doc-number>
+         <date>
+          19940600
+         </date>
+        </document-id>
+       </patcit>
+       <category>
+        cited by other
+       </category>
+      </citation>
+     </references-cited>
+     <number-of-claims>
+      13
+     </number-of-claims>
+     <us-exemplary-claim>
+      1
+     </us-exemplary-claim>
+     <field-of-search>
+      <classification-national>
+       <country>
+        US
+       </country>
+       <main-classification>
+        29825
+       </main-classification>
+      </classification-national>
+      <classification-national>
+       <country>
+        US
+       </country>
+       <main-classification>
+        29846
+       </main-classification>
+      </classification-national>
+      <classification-national>
+       <country>
+        US
+       </country>
+       <main-classification>
+        29852
+       </main-classification>
+      </classification-national>
+      <classification-national>
+       <country>
+        US
+       </country>
+       <main-classification>
+        29606
+       </main-classification>
+      </classification-national>
+      <classification-national>
+       <country>
+        US
+       </country>
+       <main-classification>
+        29832
+       </main-classification>
+      </classification-national>
+      <classification-national>
+       <country>
+        US
+       </country>
+       <main-classification>
+        361736
+       </main-classification>
+      </classification-national>
+      <classification-national>
+       <country>
+        US
+       </country>
+       <main-classification>
+        235492
+       </main-classification>
+      </classification-national>
+      <classification-national>
+       <country>
+        US
+       </country>
+       <main-classification>
+        343895
+       </main-classification>
+      </classification-national>
+      <classification-national>
+       <country>
+        US
+       </country>
+       <main-classification>
+        257679
+       </main-classification>
+      </classification-national>
+     </field-of-search>
+     <figures>
+      <number-of-drawing-sheets>
+       4
+      </number-of-drawing-sheets>
+      <number-of-figures>
+       16
+      </number-of-figures>
+     </figures>
+     <parties>
+      <applicants>
+       <applicant app-type="applicant-inventor" designation="us-only" sequence="001">
+        <addressbook>
+         <last-name>
+          Haghiri-Tehrani
+         </last-name>
+         <first-name>
+          Yahya
+         </first-name>
+         <address>
+          <city>
+           Munich
+          </city>
+          <country>
+           DE
+          </country>
+         </address>
+        </addressbook>
+        <nationality>
+         <country>
+          DE
+         </country>
+        </nationality>
+        <residence>
+         <country>
+          DE
+         </country>
+        </residence>
+       </applicant>
+       <applicant app-type="applicant-inventor" designation="us-only" sequence="002">
+        <addressbook>
+         <last-name>
+          Welling
+         </last-name>
+         <first-name>
+          Ando
+         </first-name>
+         <address>
+          <city>
+           Munich
+          </city>
+          <country>
+           DE
+          </country>
+         </address>
+        </addressbook>
+        <nationality>
+         <country>
+          DE
+         </country>
+        </nationality>
+        <residence>
+         <country>
+          DE
+         </country>
+        </residence>
+       </applicant>
+      </applicants>
+      <agents>
+       <agent rep-type="attorney" sequence="01">
+        <addressbook>
+         <orgname>
+          Bacon &amp; Thomas, PLLC
+         </orgname>
+         <address>
+          <country>
+           unknown
+          </country>
+         </address>
+        </addressbook>
+       </agent>
+      </agents>
+     </parties>
+     <assignees>
+      <assignee>
+       <addressbook>
+        <orgname>
+         Giesecke &amp; Devrient GmbH
+        </orgname>
+        <role>
+         03
+        </role>
+        <address>
+         <city>
+          Munich
+         </city>
+         <country>
+          DE
+         </country>
+        </address>
+       </addressbook>
+      </assignee>
+     </assignees>
+     <examiners>
+      <primary-examiner>
+       <last-name>
+        Chang
+       </last-name>
+       <first-name>
+        Richard
+       </first-name>
+       <department>
+        3729
+       </department>
+      </primary-examiner>
+     </examiners>
+    </us-bibliographic-data-grant>
+    <abstract id="abstract">
+     A circuit unit having a circuit unit comprising an insulating substrate (1) on which a conductive, flat coil (3) is located. The coil (3) can consist of a plurality of coil layers (9, 17) separated by insulating layers (11). To inter-connect the individual coil layer section (9, 17) into a coil, at least one opening (13) is provided in each of the insulating layers (11). The connection between the first coil ends (15, 19) of the coil (3) and an integrated circuit (7) or a module (23) containing the integrated circuit (7) can be formed solely by the coil ends (15, 19) and the connection points (27) of the integrated circuit (7) or the contacts (25) of the module (23) touching. The individual turns of the coil (3) can be disposed and dimensioned so as to permit embossing of the circuit unit without restriction within an area (37, 38) conforming with the standard.
+    </abstract>
+    <drawings id="DRAWINGS">
+    </drawings>
+    <description id="description">
+     BACKGROUND OF THE INVENTION
+1. Field of the Invention
+This invention relates to a circuit unit comprising at least an insulating substrate on which a conductive coil is located, and an integrated circuit whose connection points are electrically connected with the coil ends. The invention relates further to a method for producing such a circuit unit.
+2. Related Technology
+Circuit units of the above type are known from the prior art, being designed for example as compact electronic modules which are inserted in chip cards for noncontacting data exchange with a terminal. For example U.S. Pat. No. 4,999,742 discloses a circuit unit in the form of an electronic module with an insulating substrate on which a ring-shaped wound coil is glued. The coil ends are guided into the receiving space arising through the ring-shaped coil, and electrically connected there with the connection points of an integrated circuit. The receiving space for the integrated circuit and coil ends is cast with a casting compound for protecting these sensitive components from mechanical loads.
+The electronic module known from U.S. Pat. No. 4,999,742 has a compact structure but the coil must be wound in a separate method step and glued on the insulating substrate in a further method step.
+However, the as yet unpublished German patent application P 44 16 697.4 discloses a circuit unit in the form of a chip card having printed on one card layer of the multilayer card body a coil from a conductive lacquer whose ends are electrically connected with the connection points of an integrated circuit.
+The structure of the circuit unit known from patent application 44 16 697.4 has the advantage that the coil is printed directly on a card layer so that the method step of applying a separately manufactured coil to an insulating substrate is omitted. For some applications of the circuit unit, however, it is desirable for the coil to have a higher number of turns than can be realized with the structure explained above. Furthermore it may be desirable to provide the circuit unit with relief embossing. One must then make sure the printed turns of the coil, which are generally formed as a very thin layer, are not interrupted. Also, the production method for the circuit unit should be further optimized with regard to inexpensive mass production.
+From U.S. Pat. No. 4,960,893 (Inoue) a circuit unit in the form of an IC card is known. The IC card comprises an electronic module with a coil structure being formed on the semiconductor substrate of the electronic module. A coil may be formed of two or more coil structures which are deposited on different metallic layers having insulation layers between the metallic layers whereat the metallic layers are interconnected by means of a central conductive member which extends between the distinct metallic layers.
+However, the Inoue patent teaches forming the coil on the substrate of the IC chip. As the production of semiconductor devices is very expensive and the yield depends directly on the area of semiconductor covered by the IC chip, the teaching of Inoue has both the disadvantage of high cost and low yield as the area covered by the an IC comprising coil structure is enormous. The size of the IC chip has the further disadvantage of being susceptible to mechanical stress. The IC chip is embedded in the card body which is flexible therefore torsion or bend may destroy the IC card or the IC chip.
+From JP 6 336096 a chip card is known which is produced from two insulating substrates. Each of the substrates has a coil pattern. After connecting the two substrates by an insulating adhesive the two coil patterns form one coil.
+However, as it is stated expressly not to use a through hole for contacting the two coil patterns and as the coil patterns are formed on different substrates, chip cards having coil layers and insulating layers which are applied alternately to a substrate are discouraged.
+From EP 0 547 563 B1 a printed circuit board antenna is known which has a plurality of different coil layers. However the European patent does not show the use of an IC chip. In particular this is a disadvantage because the two coil ends are on different sides of the circuit board. If an IC chip is to be mounted on one side of the circuit board an additional through hole is necessary to connect the IC to the second end of the coil. Additional connectors are also necessary to connect the different layers of the coil which is especially a disadvantage because an additional step is necessary to insert the connectors.
+It is therefore the problem of the invention to further improve the abovementioned circuit unit and at the same time in particular to extend its range of applications. It is further the problem of the invention to propose a method for producing such a circuit unit.
+BRIEF SUMMARY OF THE INVENTION
+One advantage of the invention is to be seen in that a higher number of turns can be realized than on the structure known from German patent application 44 16 697.4. The coil can still be applied directly to the substrate of the circuit unit so that an additional method step for applying a separately manufactured coil is unnecessary. This is made possible by the fact that coil layers and insulating layers are applied alternately to the insulating substrate, the individual coil layers being electrically interconnected via plated-through holes so as to yield a coil. The coil layers and insulating layers are preferably printed on. Alternatively it is also possible for the insulating layers to consist of thin insulating foils on which the coil layers are printed on one or both sides. The throughplating through the insulating layers can be done in the simplest case by providing windows or holes in the insulating layers through which the conductive material of the coil layers penetrates when the coil layers are printed on or the layers laminated together. Additional conductive material can likewise be applied for throughplating, or additional conductive elements provided.
+A further advantage of the invention is to be seen in that the circuit unit can be manufactured especially easily by the multiple-copy method, since one can apply the coil layers and also the insulating layers (depending on the embodiment) using printing technology, with which multiple-copy production is commonplace.
+Furthermore the invention has the advantage that the coil ends can be adapted especially easily to the various possibilities of forming the electric connection between the coil ends and the connection points of the integrated circuit.
+Furthermore it is advantageous that the invention permits relief embossing of the circuit unit without restriction, with no danger of one or more turns of the coil being interrupted. For this purpose the turns of the coil are guided outside the relief embossing area of the circuit unit or between the individual relief embossing lines, whereby the width of the turns can be greater than the line spacing for compensating production tolerances, or the turns run in the area of the embossed characters but are wider than the character size.
+
+BRIEF DESCRIPTION OF THE DRAWINGS
+Some embodiments and further advantages of the invention will be explained in connection with the following figures, in which:
+FIG. 1 shows a circuit unit in a plan view,
+FIG. 2 shows a circuit unit in a perspective view,
+FIG. 3 shows a cross section along line III—III of FIG. 2,
+FIGS. 4, 5 show embodiments for contacting a coil with an integrated circuit or module,
+FIGS. 6 to 10 show embodiments for throughplating for forming an electric connection between opposite coil layers in cross section,
+FIG. 11 shows a circuit unit with marked relief embossing fields in a plan view,
+FIGS. 12, 13 show embodiments for forming and arranging turns of a coil as an enlarged detail in a plan view.
+
+DETAILED DESCRIPTION OF PREFERRED EMBODIMENTS OF THE INVENTION
+FIG. 1 shows systematically a circuit unit in the form of a chip card for noncontacting data exchange in a plan view. The dimensions of such chip cards are identical with the dimensions of chip cards for contacting data exchange, which are fixed in ISO standard 7810. The circuit unit contains insulating substrate 1 in the form of a card layer on which coil 3 is located whose free ends 15 and 19 are electrically connected with the connection points of integrated circuit 7. The integrated circuit can also be cast into a module which, for easier contacting of integrated circuit 7, has contact surfaces which are electrically connected with the connection points of integrated circuit 7. The turns of coil 3 run along the outer edge of the card layer, yielding a large-area coil in the interests of high energy input.
+FIG. 2 shows a perspective view not true to scale of an inventive circuit unit which is produced as described in the following. On insulating substrate 1, which exists e.g. in the form of a card layer (see FIG. 1) one first applies first coil layer section 9, which is dash-lined in FIG. 2 and can contain a plurality of turns (coil layer section 9 shown contains only one turn in order not to complicate the drawing). Coil layer section 9 is preferably printed on with a conductive lacquer, but it is also possible to spray on the coil layer using a corresponding mask, or to etch it out of a conductive coating located on the substrate. Other production techniques are conceivable.
+After applying coil layer section 9 one applies to insulating substrate 1 insulating layer 11, which is hatched in FIG. 2 and covers the turns of coil layer section 9. Insulating layer 11 has window 13 and is applied to coil layer section 9 in such a way that first end 15 of coil layer section 9 is not covered thereby and at least the second end area of the last turn of coil layer section 9 is accessible through window 13. Insulating layer 11 is preferably likewise printed on, but it is also possible here to spray it on using a corresponding mask or to use as insulating layer 11 a thin insulating foil, etc.
+In a further method step one applies further coil layer section 17 to insulating layer 11 using the same techniques as for applying coil layer section 9. Further coil layer section 17 is preferably also printed on. Coil layer section 17 is electrically connected with coil layer 9 through window 13 in insulating layer 11, yielding coil 3 consisting of coil layer sections 9 and 17. One can facilitate the formation of an electric connection between coil layer section 9 and 17 by making the coil ends which are electrically interconnected wider than the turns of the coil, as also shown in FIG. 2. It is easy to realize such widening by printing technology. Details on the connecting technique will be described below.
+One can optionally repeat the application of further insulating layers and coil layer sections in the explained manner once or several times until circuit unit coil 3 composed of the coil layer sections has the desired number of turns. One must thereby make sure that first end 15 of the coil layer section first printed on (e.g. layer 9) is not covered, and that the circuit unit does not exceed a predetermined height. When printing on the last coil layer section (e.g. layer 17) one can overprint first end 15 of the first printed coil layer section with a conductive lacquer again. One then obtains two freshly printed first coil ends 15 and 19 of the coil layer sections which can be electrically connected with the integrated circuit especially easily. First end 19 of the last applied coil layer section, i.e. coil layer section 17 in FIG. 2, is applied in such a way that it is especially easy to form an electric connection first from coil ends 15 and 19 to integrated circuit 7. In the embodiment of the invention shown in FIG. 2 the coil layer sections and insulating layers are applied to insulating substrate 1 in a kind of frame. In the shown embodiment, coil section ends 15 and 19 are guided into the interior of the frame onto insulating substrate 1. One avoids superimposition of turns in a coil layer section by guiding the internal first ends of the particular coil layers into the part enclosed by the frame, as shown in FIG. 2.
+By suitable choice of the coil ends which are electrically connected with the integrated circuit one can always avoid superimposition of turns in a coil layer section. For example, if coil end 19 is to be outside the frame the internal or second end of coil layer section 17 is connected with second end of coil layer section 9 (FIG. 3) and the external first end of coil layer 17 guided outward.
+Alternatively it is also possible to apply an insulating layer section with a window to the last coil layer, whose free first end is connected with the integrated circuit. Through the window the free coil end can then be guided over the coil layer section in any direction, since no short-circuit can occur between the turns of the coil because of the covering insulating layer.
+According to the embodiment of FIG. 2 one applies integrated circuit 7 to the noncovered part of insulating substrate 1, electrically connecting the connection points of the circuit with first ends 15 and 19 of the resulting coil formed by electrically connected sections 9 and 17 e.g. by means of bonding wires 21. One can simplify the formation of the electric connections from integrated circuit 7 to coil ends 15 and 19 by making the coil ends wider than the individual turns of the coil. For this purpose one need only accordingly adapt the artwork or, if the coil layers sprayed on, the masks used. No separate method steps are thus necessary for producing widened coil ends.
+FIG. 3 shows a cross section along line III—III of FIG. 2 to illustrate the sequence of layers. Coil layer section 9 is applied to insulating substrate 1, being covered by insulating layer 11 containing window 13 through which further coil layer section 17 is electrically connected with coil layer section 9. Layer 17 is located farther from the substrate 1 then layer 9. Second ends 15a and 19a of layers 9 and 17 overlap at the window 13 in insulation layer 11. A portion 11a of layer 11 overlaps second end 15a of layer 9. Further insulating layers and coil layers can follow alternately.
+In a variant the connection between integrated circuit 7 and coil ends 15 and 19 is not formed via bonding wires but by directly mounting integrated circuit 7 on coil ends 15 and 19. For this purpose integrated circuit 7, or module 23 containing integrated circuit 7, can either be mounted on coil ends 15 and 19 already applied, or circuit 7 or module 23 is first inserted in substrate 1 and then overprinted with coil ends 15 and 19.
+FIGS. 4A and 4B show cross sections of two embodiments of the inventive circuit unit wherein coil first ends 15 and 19 were first printed on substrate 1, and module 23 or integrated circuit 7 then mounted on coil ends 15 and 19. Module 23 or integrated circuit 7 can be mounted either directly after the printing operation or only after a short period of time in which the printed conductive lacquer dries at least partly.
+FIG. 4a shows substrate 1 with printed coil ends 15 and 19 and module 23. Module 23 contains integrated circuit 7 which is coated by casting compound 8 and whose connection points 27 are electrically connected with contacts 25 of module 23 via bonding wires. Module 23 is mounted on coil ends 15 and 19 in such a way that contacts 25 of module 23 touch coil ends 15, 19. The arrangement shown in FIG. 4a can be covered by a cover foil not shown in the figures, which optionally contains a gap for module 23. In the embodiment shown in FIG. 4a, module 23 is mounted on coil ends 15 and 19 in such a way that casting compound 8 points away from coil ends 15 and 19. However it is also possible to mount the module turned by 180°. In this case one should provide a corresponding gap in substrate 1 for partly receiving casting compound 8. This variant is used in particular when a low overall height of the circuit unit is to be achieved.
+FIG. 4b again shows substrate 1 with printed coil ends 15 and 19. Integrated circuit 7 is mounted on coil ends 15 and 19 in such a way that connection points 27 of integrated circuit 7 touch coil ends 15, 19. As in the embodiment of FIG. 4a, the structure shown in FIG. 4b can also be protected by a cover foil not shown, which can optionally contain a gap for integrated circuit 7.
+FIGS. 5A and 5B show cross sections of two embodiments of the inventive circuit unit whereby module 23 or integrated circuit 7 is overprinted for contacting with coil ends 15 and 19.
+In FIG. 5a module 23 is fit into substrate 1 in such a way that the surface of module 23 is flush with the surface of substrate 1. Coil ends 15 and 19 printed on after insertion of module 23 in substrate 1 extend over the surface of module 23 so far that they partly cover contacts 25 of module 23 so as to form an electric connection between contacts 25 and coil ends 15 and 19.
+In FIG. 5b integrated circuit 7, instead of module 23, is inserted into substrate 1 in such a way that the surface of integrated circuit 7 is flush with the surface of substrate 1 and connection points 27 of integrated circuit 7 point upward. Coil ends 15 and 19 are printed on substrate 1 in such a way that they extend over connection points 27 of integrated circuit 7. This forms an electric connection between connection points 27 and each coil end 15 and 19. For embedding integrated circuit 7 in substrate 1 one can either provide a corresponding gap, or press the chip into substrate 1 using heat and pressure.
+Some variants for throughplating will now be described with which one can form electric connections between two coil layers or between a coil layer and connection point 27 of integrated circuit 7 or contact 25 of module 23 through insulating layer 11, for example a thin insulating foil.
+FIG. 6 shows an embodiment of the inventive circuit unit in cross section, in which the throughplating takes place when the individual layers of the circuit unit are laminated together. One can see the sequence of layers of the circuit unit before the laminating process.
+According to FIG. 6 substrate 1a with coil layer section 17 and substrate 1b with coil layer section 9 are separated from each other by insulating foil 11. Window 13 is provided in foil 11 by punching, piercing or by laser beam at a place where coil layer section 9 and 17 are opposite each other. Lamination produces a composite from individual layers 1a, 1b and 11. Simultaneously the laminating process forms an electric connection between coil layer section 9 and coil layer section 17 through window 13. This can be supported by applying to at least one of coil layer section 9 and 17 opposite window 13 a small portion of conductive adhesive 29 which flows into window 13 during lamination, thereby forming an electric connection between coil layer section 9 and 17.
+FIG. 7 shows an embodiment of the inventive circuit unit in cross section, in which insulating foil 11 is printed with coil layer section 9, 17 one on each side, with layer section 9 and 17 partly overlapping. In the overlap area insulating foil 11 has one or more windows 13 which are produced for example by punching, piercing or by laser beam. When coil sections 9 and 17 are printed on insulating foil 11 by the screen printing method, windows 13 are filled with the printing material, for example a conductive lacquer, thereby forming electric connections between ends or coil sections 9 and 17.
+FIG. 8 shows a further embodiment for throughplating. As in FIG. 7 ends of coil sections 9 and 17 are applied to the opposite sides of insulating foil 11 so that they partly overlap. In the overlap area at least one thin wire 31 is slipped in to penetrate the end of coil layer section 17, insulating foil 11 and at least partly also the end of coil layer section 9, thereby forming an electric connection between coil sections 9 and 17. Wire 31 can also be fed completely through coil layer section 9 and bent at its end by a suitable apparatus. To facilitate the feedthrough of wire 31 one can heat it in one variant of the embodiment.
+FIG. 9 shows an embodiment in which coil layer sections 9 and 17 are first applied to the opposite sides of insulating foil 11. At least one window 13 is then provided in coil layer sections 9 and 17 and intermediate insulating foil 11, for example by punching, piercing or by laser beam, in the area where opposite ends of coil layer sections 9 and 17 overlap. Window 13 is finally filled with conductive adhesive 33 and an electric connection thus formed between coil layer sections 9 and 17.
+FIGS. 10A and 10B shows an embodiment in which an electric connection can be formed between ends of coil layer sections 9 and 17 by means of connecting element 35.
+FIG. 10a shows the sequence of layers of the circuit unit before the laminating process. Coil layer section 9 is applied to substrate 1. Above substrate 1 there is insulating foil 11 which carries coil layer section 17 and has window 13 in an area opposite coil layer section 9 and adjacent coil layer section 17. Connecting element 35 is disposed on auxiliary carrier foil 37 above window 13 and overlapping with coil layer section 17. Connecting element 35 can consist for example of a thermally activable conductive adhesive.
+FIG. 10b shows the layer structure from FIG. 10a after lamination. The layers shown in FIG. 10a can be joined into a compound under pressure and heat by means of a conventional laminating press. The laminating press die pressing against the top of the structure is formed so that connecting element 35 is pressed through window 13 against coil layer section 9 and connects therewith during the laminating process. The other end of connecting element 35 is pressed against coil layer section 17 and connects therewith. This forms an electric connection between coil layers section 9 and 17. Auxiliary carrier foil 37 comes off connecting element 35 during lamination and is then removed.
+In a variant of the invention one can omit window or windows 13 in insulating layer 11. In this variant there is no electric connection between the individual coil layer sections. The coil sections are instead coupled capacitively. Capacitive coupling can also be used for coupling integrated circuit 7 with coil 3 so that an electric connection can likewise be omitted here.
+A further aspect of the invention is that it eliminates restrictions that existed up to now with respect to relief-embossing a circuit unit containing coil 3. This can be done by various measures each applicable with both single-layer and multilayer coils 3.
+FIG. 11 shows a circuit unit in a plan view, with dotted lines delimiting areas 37 and 38 within which relief embossing is admissible in chip cards according to ISO standard 7811. Relief embossing can be used for example to bring out letters and numbers or other characters. The embossed characters can be printed on a paper voucher with a suitable apparatus if required. However, embossing can damage coil 3. Lower area 37 is especially problematic in terms of possible damage to turns of the coil, since coil 3 is generally required to have a large area and the turns therefore run close to the edge of the circuit unit.
+FIG. 12 shows an enlarged detail of the circuit unit shown in FIG. 11 in a plan view. To prevent interruption of the turns of coil 3, turn 39 is disposed between relief embossing field 37 and the edge of substrate 1 in the embodiment according to FIG. 3. If there is enough room, several turns or even all turns of coil 3 can also run here. Since no embossing occurs in this area there is no danger of the turns of coil 3 being interrupted by the embossing process. With a multilayer coil the room becomes scarce at higher numbers of turns than with a single-layer coil, since not all turns have to be disposed side by side.
+Turns 41 running in the area of relief embossing field 37 are so greatly widened that they are wider than the size of the characters embossed there. This ensures that turns 41 are not interrupted by the embossing process, even if the embossed characters would each sever a cross section of turns 41 corresponding to the character size. If there is not enough room for one or more turns 39 outside relief embossing field 37, all turns 41 can be guided through relief embossing field 37.
+FIG. 13 likewise shows an enlarged detail of the circuit unit shown in FIG. 11 in a plan view. According to the embodiment shown in FIG. 13 the turns of coil 3 are guided either between relief embossing field 37 and the edge of the circuit unit (turn 39), or following the relief embossing lines or between the individual relief embossing lines (turns 43). Turns 43 running between the relief embossing lines or directly following the relief embossing lines are somewhat widened to compensate production tolerances. This ensures that at least a partial area of turns 43 runs on a surface which is not embossed so that there is no danger of turns 43 being interrupted. In the embodiment shown in FIG. 13 it also depends on the exact dimension of the turns whether no turn at all, or at least one turn 39, can be guided past the relief embossing field, i.e. whether there is enough room for one or even for several turns 39 between relief embossing field 37 and the edge of the substrate. The turn variants shown in FIGS. 12 and 13 can also be combined.
+Besides the already outlined measures, others are also conceivable for preventing interruption of the turns of coil 3 by embossing. For example the properties of the coating material used for producing the turns can be adapted as greatly as possible to substrate 1 to which they are applied, so that the coating material does not crack and thus interrupt the turns during embossing. It is likewise conceivable to use as a coating material conductive plastics which are so elastic that they do not crack during embossing.
+In the embodiments in which one or more turns 39 are guided between relief embossing field 37 and the edge of the circuit unit, the resistance of coil 3 might possibly assume inadmissibly high values since turns 39 must be very narrow due to the little room available. This problem can be counteracted by applying turns 39 in greater layer thicknesses, which can be done for example by multiple printing. It is likewise possible to reduce the resistance by widening turns 39 in the areas where enough room is available.
+The circuit unit can be produced either in single piece production or via sheets or webs which are divided into individual circuit units at the end of production.
+The described measures for improving the circuit unit, for example providing a multilayer coil structure whereby different throughplating variants are possible, permitting relief embossing of the circuit unit by suitably selecting the coil layer dimensions and pattern, optionally also material, and directly contacting the integrated circuit or module with the coil, can be used either singly or in combination.
+    </description>
+    <claims id="claims">
+     <claim id="CLM-00001" num="00001">
+      1. A method for producing a circuit unit comprising an insulating carrier substrate (1) on which a conductive coil (3) is located, and an integrated circuit (7) whose connection points (27) are electrically connected with the coil ends (15, 19) directly or via contacts (2S), comprising the following steps:
+applying a coil section (9) with at least one turn to the substrate (1), 
+covering at least the area of the applied coil section with an insulating layer (11) containing at least one opening (13) through which at least one of the covered turns of the coil section (9) is accessible, 
+applying to the insulating layer (11) a further coil section (17) with at least one turn which is electrically connected with the previously covered coil section (9) through the at least one opening (13), the electric connection being produced by the coil material of the further coil section (17), 
+electrically connecting the connection points (27) of the integrated circuit (7), or the contacts (25) of a module (23) containing the integrated circuit (7), with one end (15) of the coil section (9) located directly on the insulating substrate (1), on the one hand, and with one end (19) of the last applied coil section (17), on the other hand.
+     </claim>
+     <claim id="CLM-00002" num="00002">
+      2. The method of claim 1, wherein the electric connection between the coil sections (9, 17) is carried out through the at least one opening (13) in the insulating layer (11) by laminating the insulating layer (11) or insulating layers (11) and the insulating substrate (1).
+     </claim>
+     <claim id="CLM-00003" num="00003">
+      3. The method of claim 2, including disposing the conductive material (29) in the area of the at least one opening (13) before lamination.
+     </claim>
+     <claim id="CLM-00004" num="00004">
+      4. The method of claim 1, including producing the at least one opening (13) in the insulating layer (11) before application of at least one of the coil sections (9, 17) separated by the insulating section (11), and filling the at least one opening (13) with the coil material during application of at least one of the coil layers (9, 17).
+     </claim>
+     <claim id="CLM-00005" num="00005">
+      5. The method of claim 1, including filling the at least one opening (13) with conductive material (33) after application of the coil sections (9, 17) so as to form an electric connection between the coil sections (9, 17).
+     </claim>
+     <claim id="CLM-00006" num="00006">
+      6. The method of claim 1, including transferring a conductive element (35) to the coil sections (9, 17) in such a way that the conductive element (35) forms an electric connection between the coil sections (9, 17) through the at least one opening (13).
+     </claim>
+     <claim id="CLM-00007" num="00007">
+      7. The method of claim 1, including producing the at least one opening (13) by means of at least one wire (31) piercing the insulating layer (11) and at least partly the coil sections (9, 17) separated by the insulating layer (11), the wire (31) remaining in the insulating layer (11) and at least partly in the coil sections (9, 17) so as to form an electric connection between the coil sections (9, 17).
+     </claim>
+     <claim id="CLM-00008" num="00008">
+      8. The method of claim 1, further comprising the steps of:
+applying the coil (3) to the substrate (1) in such a way that the distance between the coil ends (15, 19) can be bridged by the connection points (27) of the integrated circuit (7) or by the contacts (25) of a module (23) containing the integrated circuit (7), and 
+mounting the integrated circuit (7) or the module (23) on the coil ends (15, 19) in such a way that the connection points (27) of the integrated circuit (7) and the coil ends (15, 19) or the contacts (25) of the module (23) and the coil ends (15, 19) touch, and 
+forming an electric contact between the connection points (27) and the coil ends (15, 19) or the contacts (25) and the coil ends (15, 19) solely through this touching.
+     </claim>
+     <claim id="CLM-00009" num="00009">
+      9. The method of claim 8, including printing the coil (3) on the substrate (1), and mounting the integrated circuit (7) or the module (23) before the printed coil completely dries.
+     </claim>
+     <claim id="CLM-00010" num="00010">
+      10. The method of claim 1, further comprising the steps of:
+incorporating the integrated circuit (7) or a module (23) containing the integrated circuit (7) in the substrate (1) in such a way that the connection points (27) of the integrated circuit (3) or the contacts (25) of the module are flush with the surface of the substrate (1), 
+then applying the coil (3) to the substrate (1) in such a way that the coil ends (15, 19) at least partly cover the connection points (27) or the contacts (25), and 
+forming an electric contact between the connection points (27) and the coil ends (15, 19) or the contacts (25) and the coil ends (15, 19) solely through this direct touching.
+     </claim>
+     <claim id="CLM-00011" num="00011">
+      11. The method of claim 10, wherein the step of applying the coil to the substrate is carried out by printing the coil on the substrate.
+     </claim>
+     <claim id="CLM-00012" num="00012">
+      12. The method of claim 2, further comprising the steps of:
+applying the coil (3) to the substrate (1) in such a way that the distance between the coil ends (15, 19) can be bridged by the connection points (27) of the integrated circuit (7) or by the contacts (25) of a module (23) containing the integrated circuit (7), and 
+mounting the integrated circuit (7) or the module (23) on the coil ends (15, 19) in such a way that the connection points (27) of the integrated circuit (7) and the coil ends (15, 19) or the contacts (25) of the module (23) and the coil ends (15, 19) touch, and 
+forming an electric contact between the connection points (27) and the coil ends (15, 19) or the contacts (25) and the coil ends (15, 19) solely through this touching.
+     </claim>
+     <claim id="CLM-00013" num="00013">
+      13. The method of claim 2, further comprising the steps of:
+incorporating the integrated circuit (7) or a module (23) containing the integrated circuit (7) in the substrate (1) in such a way that the connection points (27) of the integrated circuit (3) or the contacts (25) of the module are flush with the surface of the substrate (1), 
+then applying the coil (3) to the substrate (1) in such a way that the coil ends (15, 19) at least partly cover the connection points (27) or the contacts (25), and 
+forming an electric contact between the connection points (27) and the coil ends (15, 19) or the contacts (25) and the coil ends (15, 19) solely through this direct touching.
+     </claim>
+    </claims>
+   </us-patent-grant>
+  </p>
+ </body>
+</html>

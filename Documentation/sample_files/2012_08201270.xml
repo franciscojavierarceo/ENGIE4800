@@ -1,0 +1,1952 @@
+<!DOCTYPE us-patent-grant SYSTEM "us-patent-grant-v42-2006-08-23.dtd">
+<html>
+ <body>
+  <p>
+   ]&gt;
+   <us-patent-grant country="US" date-produced="20120605" date-publ="20120619" dtd-version="v4.2 2006-08-23" file="US08201270-20120619.XML" id="us-patent-grant" lang="EN" status="PRODUCTION">
+    <us-bibliographic-data-grant>
+     <publication-reference>
+      <document-id>
+       <country>
+        US
+       </country>
+       <doc-number>
+        08201270
+       </doc-number>
+       <kind>
+        B2
+       </kind>
+       <date>
+        20120619
+       </date>
+      </document-id>
+     </publication-reference>
+     <application-reference appl-type="utility">
+      <document-id>
+       <country>
+        US
+       </country>
+       <doc-number>
+        12437946
+       </doc-number>
+       <date>
+        20090508
+       </date>
+      </document-id>
+     </application-reference>
+     <us-application-series-code>
+      12
+     </us-application-series-code>
+     <us-term-of-grant>
+      <us-term-extension>
+       110
+      </us-term-extension>
+     </us-term-of-grant>
+     <classifications-ipcr>
+      <classification-ipcr>
+       <ipc-version-indicator>
+        <date>
+         20060101
+        </date>
+       </ipc-version-indicator>
+       <classification-level>
+        A
+       </classification-level>
+       <section>
+        A
+       </section>
+       <class>
+        41
+       </class>
+       <subclass>
+        D
+       </subclass>
+       <main-group>
+        13
+       </main-group>
+       <subgroup>
+        05
+       </subgroup>
+       <symbol-position>
+        F
+       </symbol-position>
+       <classification-value>
+        I
+       </classification-value>
+       <action-date>
+        <date>
+         20120619
+        </date>
+       </action-date>
+       <generating-office>
+        <country>
+         US
+        </country>
+       </generating-office>
+       <classification-status>
+        B
+       </classification-status>
+       <classification-data-source>
+        H
+       </classification-data-source>
+      </classification-ipcr>
+      <classification-ipcr>
+       <ipc-version-indicator>
+        <date>
+         20060101
+        </date>
+       </ipc-version-indicator>
+       <classification-level>
+        A
+       </classification-level>
+       <section>
+        A
+       </section>
+       <class>
+        41
+       </class>
+       <subclass>
+        D
+       </subclass>
+       <main-group>
+        13
+       </main-group>
+       <subgroup>
+        00
+       </subgroup>
+       <symbol-position>
+        L
+       </symbol-position>
+       <classification-value>
+        N
+       </classification-value>
+       <action-date>
+        <date>
+         20120619
+        </date>
+       </action-date>
+       <generating-office>
+        <country>
+         US
+        </country>
+       </generating-office>
+       <classification-status>
+        B
+       </classification-status>
+       <classification-data-source>
+        H
+       </classification-data-source>
+      </classification-ipcr>
+     </classifications-ipcr>
+     <classification-national>
+      <country>
+       US
+      </country>
+      <main-classification>
+       2 22
+      </main-classification>
+      <further-classification>
+       2455
+      </further-classification>
+      <further-classification>
+       2456
+      </further-classification>
+      <further-classification>
+       2466
+      </further-classification>
+      <further-classification>
+       2  25
+      </further-classification>
+     </classification-national>
+     <invention-title id="d2e53">
+      Leg protector and protective skirt including a leg protector
+     </invention-title>
+     <references-cited>
+      <citation>
+       <patcit num="00001">
+        <document-id>
+         <country>
+          US
+         </country>
+         <doc-number>
+          3708799
+         </doc-number>
+         <kind>
+          A
+         </kind>
+         <name>
+          Smithdeal
+         </name>
+         <date>
+          19730100
+         </date>
+        </document-id>
+       </patcit>
+       <category>
+        cited by examiner
+       </category>
+       <classification-national>
+        <country>
+         US
+        </country>
+        <main-classification>
+         2 46
+        </main-classification>
+       </classification-national>
+      </citation>
+      <citation>
+       <patcit num="00002">
+        <document-id>
+         <country>
+          US
+         </country>
+         <doc-number>
+          3771171
+         </doc-number>
+         <kind>
+          A
+         </kind>
+         <name>
+          Mitchell
+         </name>
+         <date>
+          19731100
+         </date>
+        </document-id>
+       </patcit>
+       <category>
+        cited by examiner
+       </category>
+       <classification-national>
+        <country>
+         US
+        </country>
+        <main-classification>
+         2  25
+        </main-classification>
+       </classification-national>
+      </citation>
+      <citation>
+       <patcit num="00003">
+        <document-id>
+         <country>
+          US
+         </country>
+         <doc-number>
+          4024584
+         </doc-number>
+         <kind>
+          A
+         </kind>
+         <name>
+          Smith
+         </name>
+         <date>
+          19770500
+         </date>
+        </document-id>
+       </patcit>
+       <category>
+        cited by examiner
+       </category>
+       <classification-national>
+        <country>
+         US
+        </country>
+        <main-classification>
+         2 24
+        </main-classification>
+       </classification-national>
+      </citation>
+      <citation>
+       <patcit num="00004">
+        <document-id>
+         <country>
+          US
+         </country>
+         <doc-number>
+          4325148
+         </doc-number>
+         <kind>
+          A
+         </kind>
+         <name>
+          Livernois
+         </name>
+         <date>
+          19820400
+         </date>
+        </document-id>
+       </patcit>
+       <category>
+        cited by examiner
+       </category>
+       <classification-national>
+        <country>
+         US
+        </country>
+        <main-classification>
+         2465
+        </main-classification>
+       </classification-national>
+      </citation>
+      <citation>
+       <patcit num="00005">
+        <document-id>
+         <country>
+          US
+         </country>
+         <doc-number>
+          H7
+         </doc-number>
+         <kind>
+          H
+         </kind>
+         <name>
+          Martone
+         </name>
+         <date>
+          19860100
+         </date>
+        </document-id>
+       </patcit>
+       <category>
+        cited by examiner
+       </category>
+       <classification-national>
+        <country>
+         US
+        </country>
+        <main-classification>
+         2  25
+        </main-classification>
+       </classification-national>
+      </citation>
+      <citation>
+       <patcit num="00006">
+        <document-id>
+         <country>
+          US
+         </country>
+         <doc-number>
+          4577346
+         </doc-number>
+         <kind>
+          A
+         </kind>
+         <name>
+          Hall
+         </name>
+         <date>
+          19860300
+         </date>
+        </document-id>
+       </patcit>
+       <category>
+        cited by examiner
+       </category>
+       <classification-national>
+        <country>
+         US
+        </country>
+        <main-classification>
+         2464
+        </main-classification>
+       </classification-national>
+      </citation>
+      <citation>
+       <patcit num="00007">
+        <document-id>
+         <country>
+          US
+         </country>
+         <doc-number>
+          4894867
+         </doc-number>
+         <kind>
+          A
+         </kind>
+         <name>
+          Ceravolo et al.
+         </name>
+         <date>
+          19900100
+         </date>
+        </document-id>
+       </patcit>
+       <category>
+        cited by examiner
+       </category>
+       <classification-national>
+        <country>
+         US
+        </country>
+        <main-classification>
+         2238
+        </main-classification>
+       </classification-national>
+      </citation>
+      <citation>
+       <patcit num="00008">
+        <document-id>
+         <country>
+          US
+         </country>
+         <doc-number>
+          5034998
+         </doc-number>
+         <kind>
+          A
+         </kind>
+         <name>
+          Kolsky
+         </name>
+         <date>
+          19910700
+         </date>
+        </document-id>
+       </patcit>
+       <category>
+        cited by examiner
+       </category>
+       <classification-national>
+        <country>
+         US
+        </country>
+        <main-classification>
+         2465
+        </main-classification>
+       </classification-national>
+      </citation>
+      <citation>
+       <patcit num="00009">
+        <document-id>
+         <country>
+          US
+         </country>
+         <doc-number>
+          5375262
+         </doc-number>
+         <kind>
+          A
+         </kind>
+         <name>
+          Carter
+         </name>
+         <date>
+          19941200
+         </date>
+        </document-id>
+       </patcit>
+       <category>
+        cited by examiner
+       </category>
+       <classification-national>
+        <country>
+         US
+        </country>
+        <main-classification>
+         2 23
+        </main-classification>
+       </classification-national>
+      </citation>
+      <citation>
+       <patcit num="00010">
+        <document-id>
+         <country>
+          US
+         </country>
+         <doc-number>
+          5405312
+         </doc-number>
+         <kind>
+          A
+         </kind>
+         <name>
+          Jacobs
+         </name>
+         <date>
+          19950400
+         </date>
+        </document-id>
+       </patcit>
+       <category>
+        cited by examiner
+       </category>
+       <classification-national>
+        <country>
+         US
+        </country>
+        <main-classification>
+         602  5
+        </main-classification>
+       </classification-national>
+      </citation>
+      <citation>
+       <patcit num="00011">
+        <document-id>
+         <country>
+          US
+         </country>
+         <doc-number>
+          5560042
+         </doc-number>
+         <kind>
+          A
+         </kind>
+         <name>
+          Schlesner
+         </name>
+         <date>
+          19961000
+         </date>
+        </document-id>
+       </patcit>
+       <category>
+        cited by examiner
+       </category>
+       <classification-national>
+        <country>
+         US
+        </country>
+        <main-classification>
+         2 46
+        </main-classification>
+       </classification-national>
+      </citation>
+      <citation>
+       <patcit num="00012">
+        <document-id>
+         <country>
+          US
+         </country>
+         <doc-number>
+          5584072
+         </doc-number>
+         <kind>
+          A
+         </kind>
+         <name>
+          Kim et al.
+         </name>
+         <date>
+          19961200
+         </date>
+        </document-id>
+       </patcit>
+       <category>
+        cited by examiner
+       </category>
+       <classification-national>
+        <country>
+         US
+        </country>
+        <main-classification>
+         2465
+        </main-classification>
+       </classification-national>
+      </citation>
+      <citation>
+       <patcit num="00013">
+        <document-id>
+         <country>
+          US
+         </country>
+         <doc-number>
+          5966739
+         </doc-number>
+         <kind>
+          A
+         </kind>
+         <name>
+          Wagner
+         </name>
+         <date>
+          19991000
+         </date>
+        </document-id>
+       </patcit>
+       <category>
+        cited by examiner
+       </category>
+       <classification-national>
+        <country>
+         US
+        </country>
+        <main-classification>
+         2 23
+        </main-classification>
+       </classification-national>
+      </citation>
+      <citation>
+       <patcit num="00014">
+        <document-id>
+         <country>
+          US
+         </country>
+         <doc-number>
+          6178556
+         </doc-number>
+         <kind>
+          B1
+         </kind>
+         <name>
+          Foreman et al.
+         </name>
+         <date>
+          20010100
+         </date>
+        </document-id>
+       </patcit>
+       <category>
+        cited by examiner
+       </category>
+       <classification-national>
+        <country>
+         US
+        </country>
+        <main-classification>
+         2 22
+        </main-classification>
+       </classification-national>
+      </citation>
+      <citation>
+       <patcit num="00015">
+        <document-id>
+         <country>
+          US
+         </country>
+         <doc-number>
+          6266818
+         </doc-number>
+         <kind>
+          B1
+         </kind>
+         <name>
+          Howland et al.
+         </name>
+         <date>
+          20010700
+         </date>
+        </document-id>
+       </patcit>
+       <category>
+        cited by examiner
+       </category>
+       <classification-national>
+        <country>
+         US
+        </country>
+        <main-classification>
+         2  25
+        </main-classification>
+       </classification-national>
+      </citation>
+      <citation>
+       <patcit num="00016">
+        <document-id>
+         <country>
+          US
+         </country>
+         <doc-number>
+          6453791
+         </doc-number>
+         <kind>
+          B1
+         </kind>
+         <name>
+          Seitzinger
+         </name>
+         <date>
+          20020900
+         </date>
+        </document-id>
+       </patcit>
+       <category>
+        cited by examiner
+       </category>
+       <classification-national>
+        <country>
+         US
+        </country>
+        <main-classification>
+         2  25
+        </main-classification>
+       </classification-national>
+      </citation>
+      <citation>
+       <patcit num="00017">
+        <document-id>
+         <country>
+          US
+         </country>
+         <doc-number>
+          6543055
+         </doc-number>
+         <kind>
+          B2
+         </kind>
+         <name>
+          Howland et al.
+         </name>
+         <date>
+          20030400
+         </date>
+        </document-id>
+       </patcit>
+       <category>
+        cited by examiner
+       </category>
+       <classification-national>
+        <country>
+         US
+        </country>
+        <main-classification>
+         2  25
+        </main-classification>
+       </classification-national>
+      </citation>
+      <citation>
+       <patcit num="00018">
+        <document-id>
+         <country>
+          US
+         </country>
+         <doc-number>
+          6665875
+         </doc-number>
+         <kind>
+          B1
+         </kind>
+         <name>
+          Alonso et al.
+         </name>
+         <date>
+          20031200
+         </date>
+        </document-id>
+       </patcit>
+       <category>
+        cited by examiner
+       </category>
+       <classification-national>
+        <country>
+         US
+        </country>
+        <main-classification>
+         2 51
+        </main-classification>
+       </classification-national>
+      </citation>
+      <citation>
+       <patcit num="00019">
+        <document-id>
+         <country>
+          US
+         </country>
+         <doc-number>
+          7266850
+         </doc-number>
+         <kind>
+          B1
+         </kind>
+         <name>
+          Strum et al.
+         </name>
+         <date>
+          20070900
+         </date>
+        </document-id>
+       </patcit>
+       <category>
+        cited by examiner
+       </category>
+       <classification-national>
+        <country>
+         US
+        </country>
+        <main-classification>
+         2  25
+        </main-classification>
+       </classification-national>
+      </citation>
+      <citation>
+       <patcit num="00020">
+        <document-id>
+         <country>
+          US
+         </country>
+         <doc-number>
+          7386894
+         </doc-number>
+         <kind>
+          B2
+         </kind>
+         <name>
+          Straiton
+         </name>
+         <date>
+          20080600
+         </date>
+        </document-id>
+       </patcit>
+       <category>
+        cited by examiner
+       </category>
+       <classification-national>
+        <country>
+         US
+        </country>
+        <main-classification>
+         2228
+        </main-classification>
+       </classification-national>
+      </citation>
+      <citation>
+       <patcit num="00021">
+        <document-id>
+         <country>
+          US
+         </country>
+         <doc-number>
+          7490358
+         </doc-number>
+         <kind>
+          B1
+         </kind>
+         <name>
+          Beck
+         </name>
+         <date>
+          20090200
+         </date>
+        </document-id>
+       </patcit>
+       <category>
+        cited by examiner
+       </category>
+       <classification-national>
+        <country>
+         US
+        </country>
+        <main-classification>
+         2  25
+        </main-classification>
+       </classification-national>
+      </citation>
+      <citation>
+       <patcit num="00022">
+        <document-id>
+         <country>
+          US
+         </country>
+         <doc-number>
+          7571493
+         </doc-number>
+         <kind>
+          B1
+         </kind>
+         <name>
+          Purvis et al.
+         </name>
+         <date>
+          20090800
+         </date>
+        </document-id>
+       </patcit>
+       <category>
+        cited by examiner
+       </category>
+       <classification-national>
+        <country>
+         US
+        </country>
+        <main-classification>
+         2  25
+        </main-classification>
+       </classification-national>
+      </citation>
+      <citation>
+       <patcit num="00023">
+        <document-id>
+         <country>
+          US
+         </country>
+         <doc-number>
+          7694349
+         </doc-number>
+         <kind>
+          B2
+         </kind>
+         <name>
+          Skottheim
+         </name>
+         <date>
+          20100400
+         </date>
+        </document-id>
+       </patcit>
+       <category>
+        cited by examiner
+       </category>
+       <classification-national>
+        <country>
+         US
+        </country>
+        <main-classification>
+         2 69
+        </main-classification>
+       </classification-national>
+      </citation>
+      <citation>
+       <patcit num="00024">
+        <document-id>
+         <country>
+          US
+         </country>
+         <doc-number>
+          7810167
+         </doc-number>
+         <kind>
+          B2
+         </kind>
+         <name>
+          Seitzinger et al.
+         </name>
+         <date>
+          20101000
+         </date>
+        </document-id>
+       </patcit>
+       <category>
+        cited by examiner
+       </category>
+       <classification-national>
+        <country>
+         US
+        </country>
+        <main-classification>
+         2  25
+        </main-classification>
+       </classification-national>
+      </citation>
+      <citation>
+       <patcit num="00025">
+        <document-id>
+         <country>
+          US
+         </country>
+         <doc-number>
+          2001/0029621
+         </doc-number>
+         <kind>
+          A1
+         </kind>
+         <name>
+          Howland et al.
+         </name>
+         <date>
+          20011000
+         </date>
+        </document-id>
+       </patcit>
+       <category>
+        cited by examiner
+       </category>
+       <classification-national>
+        <country>
+         US
+        </country>
+        <main-classification>
+         2  25
+        </main-classification>
+       </classification-national>
+      </citation>
+      <citation>
+       <patcit num="00026">
+        <document-id>
+         <country>
+          US
+         </country>
+         <doc-number>
+          2002/0020000
+         </doc-number>
+         <kind>
+          A1
+         </kind>
+         <name>
+          Garcia
+         </name>
+         <date>
+          20020200
+         </date>
+        </document-id>
+       </patcit>
+       <category>
+        cited by examiner
+       </category>
+       <classification-national>
+        <country>
+         US
+        </country>
+        <main-classification>
+         2 23
+        </main-classification>
+       </classification-national>
+      </citation>
+      <citation>
+       <patcit num="00027">
+        <document-id>
+         <country>
+          US
+         </country>
+         <doc-number>
+          2002/0178483
+         </doc-number>
+         <kind>
+          A1
+         </kind>
+         <name>
+          Beland
+         </name>
+         <date>
+          20021200
+         </date>
+        </document-id>
+       </patcit>
+       <category>
+        cited by examiner
+       </category>
+       <classification-national>
+        <country>
+         US
+        </country>
+        <main-classification>
+         2 22
+        </main-classification>
+       </classification-national>
+      </citation>
+      <citation>
+       <patcit num="00028">
+        <document-id>
+         <country>
+          US
+         </country>
+         <doc-number>
+          2003/0196256
+         </doc-number>
+         <kind>
+          A1
+         </kind>
+         <name>
+          Drake
+         </name>
+         <date>
+          20031000
+         </date>
+        </document-id>
+       </patcit>
+       <category>
+        cited by examiner
+       </category>
+       <classification-national>
+        <country>
+         US
+        </country>
+        <main-classification>
+         2455
+        </main-classification>
+       </classification-national>
+      </citation>
+      <citation>
+       <patcit num="00029">
+        <document-id>
+         <country>
+          US
+         </country>
+         <doc-number>
+          2003/0226197
+         </doc-number>
+         <kind>
+          A1
+         </kind>
+         <name>
+          Cramer
+         </name>
+         <date>
+          20031200
+         </date>
+        </document-id>
+       </patcit>
+       <category>
+        cited by examiner
+       </category>
+       <classification-national>
+        <country>
+         US
+        </country>
+        <main-classification>
+         2466
+        </main-classification>
+       </classification-national>
+      </citation>
+      <citation>
+       <patcit num="00030">
+        <document-id>
+         <country>
+          US
+         </country>
+         <doc-number>
+          2004/0049827
+         </doc-number>
+         <kind>
+          A1
+         </kind>
+         <name>
+          Melts
+         </name>
+         <date>
+          20040300
+         </date>
+        </document-id>
+       </patcit>
+       <category>
+        cited by examiner
+       </category>
+       <classification-national>
+        <country>
+         US
+        </country>
+        <main-classification>
+         2 22
+        </main-classification>
+       </classification-national>
+      </citation>
+      <citation>
+       <patcit num="00031">
+        <document-id>
+         <country>
+          US
+         </country>
+         <doc-number>
+          2004/0088772
+         </doc-number>
+         <kind>
+          A1
+         </kind>
+         <name>
+          Pollari
+         </name>
+         <date>
+          20040500
+         </date>
+        </document-id>
+       </patcit>
+       <category>
+        cited by examiner
+       </category>
+       <classification-national>
+        <country>
+         US
+        </country>
+        <main-classification>
+         2 22
+        </main-classification>
+       </classification-national>
+      </citation>
+      <citation>
+       <patcit num="00032">
+        <document-id>
+         <country>
+          US
+         </country>
+         <doc-number>
+          2005/0132475
+         </doc-number>
+         <kind>
+          A1
+         </kind>
+         <name>
+          Park
+         </name>
+         <date>
+          20050600
+         </date>
+        </document-id>
+       </patcit>
+       <category>
+        cited by examiner
+       </category>
+       <classification-national>
+        <country>
+         US
+        </country>
+        <main-classification>
+         2312
+        </main-classification>
+       </classification-national>
+      </citation>
+      <citation>
+       <patcit num="00033">
+        <document-id>
+         <country>
+          US
+         </country>
+         <doc-number>
+          2006/0165948
+         </doc-number>
+         <kind>
+          A1
+         </kind>
+         <name>
+          Gold
+         </name>
+         <date>
+          20060700
+         </date>
+        </document-id>
+       </patcit>
+       <category>
+        cited by examiner
+       </category>
+       <classification-national>
+        <country>
+         US
+        </country>
+        <main-classification>
+         428 76
+        </main-classification>
+       </classification-national>
+      </citation>
+      <citation>
+       <patcit num="00034">
+        <document-id>
+         <country>
+          US
+         </country>
+         <doc-number>
+          2006/0191051
+         </doc-number>
+         <kind>
+          A1
+         </kind>
+         <name>
+          Garcia
+         </name>
+         <date>
+          20060800
+         </date>
+        </document-id>
+       </patcit>
+       <category>
+        cited by examiner
+       </category>
+       <classification-national>
+        <country>
+         US
+        </country>
+        <main-classification>
+         2 22
+        </main-classification>
+       </classification-national>
+      </citation>
+      <citation>
+       <patcit num="00035">
+        <document-id>
+         <country>
+          US
+         </country>
+         <doc-number>
+          2006/0217015
+         </doc-number>
+         <kind>
+          A1
+         </kind>
+         <name>
+          Chen
+         </name>
+         <date>
+          20060900
+         </date>
+        </document-id>
+       </patcit>
+       <category>
+        cited by examiner
+       </category>
+       <classification-national>
+        <country>
+         US
+        </country>
+        <main-classification>
+         442 36
+        </main-classification>
+       </classification-national>
+      </citation>
+      <citation>
+       <patcit num="00036">
+        <document-id>
+         <country>
+          US
+         </country>
+         <doc-number>
+          2006/0248623
+         </doc-number>
+         <kind>
+          A1
+         </kind>
+         <name>
+          Miller
+         </name>
+         <date>
+          20061100
+         </date>
+        </document-id>
+       </patcit>
+       <category>
+        cited by examiner
+       </category>
+       <classification-national>
+        <country>
+         US
+        </country>
+        <main-classification>
+         2  66
+        </main-classification>
+       </classification-national>
+      </citation>
+      <citation>
+       <patcit num="00037">
+        <document-id>
+         <country>
+          US
+         </country>
+         <doc-number>
+          2007/0016996
+         </doc-number>
+         <kind>
+          A1
+         </kind>
+         <name>
+          Seitzinger et al.
+         </name>
+         <date>
+          20070100
+         </date>
+        </document-id>
+       </patcit>
+       <category>
+        cited by examiner
+       </category>
+       <classification-national>
+        <country>
+         US
+        </country>
+        <main-classification>
+         2  25
+        </main-classification>
+       </classification-national>
+      </citation>
+      <citation>
+       <patcit num="00038">
+        <document-id>
+         <country>
+          US
+         </country>
+         <doc-number>
+          2008/0098500
+         </doc-number>
+         <kind>
+          A1
+         </kind>
+         <name>
+          Matic et al.
+         </name>
+         <date>
+          20080500
+         </date>
+        </document-id>
+       </patcit>
+       <category>
+        cited by examiner
+       </category>
+       <classification-national>
+        <country>
+         US
+        </country>
+        <main-classification>
+         2  25
+        </main-classification>
+       </classification-national>
+      </citation>
+      <citation>
+       <patcit num="00039">
+        <document-id>
+         <country>
+          US
+         </country>
+         <doc-number>
+          2008/0134403
+         </doc-number>
+         <kind>
+          A1
+         </kind>
+         <name>
+          Minns
+         </name>
+         <date>
+          20080600
+         </date>
+        </document-id>
+       </patcit>
+       <category>
+        cited by examiner
+       </category>
+       <classification-national>
+        <country>
+         US
+        </country>
+        <main-classification>
+         2 22
+        </main-classification>
+       </classification-national>
+      </citation>
+      <citation>
+       <patcit num="00040">
+        <document-id>
+         <country>
+          US
+         </country>
+         <doc-number>
+          2008/0134412
+         </doc-number>
+         <kind>
+          A1
+         </kind>
+         <name>
+          Lapp et al.
+         </name>
+         <date>
+          20080600
+         </date>
+        </document-id>
+       </patcit>
+       <category>
+        cited by examiner
+       </category>
+       <classification-national>
+        <country>
+         US
+        </country>
+        <main-classification>
+         21618
+        </main-classification>
+       </classification-national>
+      </citation>
+      <citation>
+       <patcit num="00041">
+        <document-id>
+         <country>
+          US
+         </country>
+         <doc-number>
+          2008/0134419
+         </doc-number>
+         <kind>
+          A1
+         </kind>
+         <name>
+          Kalaam et al.
+         </name>
+         <date>
+          20080600
+         </date>
+        </document-id>
+       </patcit>
+       <category>
+        cited by examiner
+       </category>
+       <classification-national>
+        <country>
+         US
+        </country>
+        <main-classification>
+         2463
+        </main-classification>
+       </classification-national>
+      </citation>
+      <citation>
+       <patcit num="00042">
+        <document-id>
+         <country>
+          US
+         </country>
+         <doc-number>
+          2008/0189822
+         </doc-number>
+         <kind>
+          A1
+         </kind>
+         <name>
+          Johannessen et al.
+         </name>
+         <date>
+          20080800
+         </date>
+        </document-id>
+       </patcit>
+       <category>
+        cited by examiner
+       </category>
+       <classification-national>
+        <country>
+         US
+        </country>
+        <main-classification>
+         2 22
+        </main-classification>
+       </classification-national>
+      </citation>
+      <citation>
+       <patcit num="00043">
+        <document-id>
+         <country>
+          US
+         </country>
+         <doc-number>
+          2008/0289072
+         </doc-number>
+         <kind>
+          A1
+         </kind>
+         <name>
+          Shin
+         </name>
+         <date>
+          20081100
+         </date>
+        </document-id>
+       </patcit>
+       <category>
+        cited by examiner
+       </category>
+       <classification-national>
+        <country>
+         US
+        </country>
+        <main-classification>
+         2 23
+        </main-classification>
+       </classification-national>
+      </citation>
+      <citation>
+       <patcit num="00044">
+        <document-id>
+         <country>
+          US
+         </country>
+         <doc-number>
+          2008/0295210
+         </doc-number>
+         <kind>
+          A1
+         </kind>
+         <name>
+          Matic et al.
+         </name>
+         <date>
+          20081200
+         </date>
+        </document-id>
+       </patcit>
+       <category>
+        cited by examiner
+       </category>
+       <classification-national>
+        <country>
+         US
+        </country>
+        <main-classification>
+         2  25
+        </main-classification>
+       </classification-national>
+      </citation>
+      <citation>
+       <patcit num="00045">
+        <document-id>
+         <country>
+          US
+         </country>
+         <doc-number>
+          2009/0025126
+         </doc-number>
+         <kind>
+          A1
+         </kind>
+         <name>
+          Crossman et al.
+         </name>
+         <date>
+          20090100
+         </date>
+        </document-id>
+       </patcit>
+       <category>
+        cited by examiner
+       </category>
+       <classification-national>
+        <country>
+         US
+        </country>
+        <main-classification>
+         2456
+        </main-classification>
+       </classification-national>
+      </citation>
+      <citation>
+       <patcit num="00046">
+        <document-id>
+         <country>
+          US
+         </country>
+         <doc-number>
+          2010/0269234
+         </doc-number>
+         <kind>
+          A1
+         </kind>
+         <name>
+          Bennett
+         </name>
+         <date>
+          20101000
+         </date>
+        </document-id>
+       </patcit>
+       <category>
+        cited by examiner
+       </category>
+       <classification-national>
+        <country>
+         US
+        </country>
+        <main-classification>
+         2  25
+        </main-classification>
+       </classification-national>
+      </citation>
+     </references-cited>
+     <number-of-claims>
+      10
+     </number-of-claims>
+     <us-exemplary-claim>
+      1
+     </us-exemplary-claim>
+     <us-field-of-classification-search>
+      <classification-national>
+       <country>
+        US
+       </country>
+       <main-classification>
+        2455
+       </main-classification>
+      </classification-national>
+      <classification-national>
+       <country>
+        US
+       </country>
+       <main-classification>
+        2464
+       </main-classification>
+      </classification-national>
+      <classification-national>
+       <country>
+        US
+       </country>
+       <main-classification>
+        2466
+       </main-classification>
+      </classification-national>
+      <classification-national>
+       <country>
+        US
+       </country>
+       <main-classification>
+        2  25
+       </main-classification>
+      </classification-national>
+      <classification-national>
+       <country>
+        US
+       </country>
+       <main-classification>
+        2 22
+       </main-classification>
+      </classification-national>
+      <classification-national>
+       <country>
+        US
+       </country>
+       <main-classification>
+        2 23
+       </main-classification>
+      </classification-national>
+      <classification-national>
+       <country>
+        US
+       </country>
+       <main-classification>
+        2 46
+       </main-classification>
+      </classification-national>
+      <classification-national>
+       <country>
+        US
+       </country>
+       <main-classification>
+        2 47
+       </main-classification>
+      </classification-national>
+      <classification-national>
+       <country>
+        US
+       </country>
+       <main-classification>
+        2 495
+       </main-classification>
+      </classification-national>
+      <classification-national>
+       <country>
+        US
+       </country>
+       <main-classification>
+        2 62
+       </main-classification>
+      </classification-national>
+      <classification-national>
+       <country>
+        US
+       </country>
+       <main-classification>
+        2215
+       </main-classification>
+      </classification-national>
+      <classification-national>
+       <country>
+        US
+       </country>
+       <main-classification>
+        2222
+       </main-classification>
+      </classification-national>
+      <classification-national>
+       <country>
+        US
+       </country>
+       <main-classification>
+        2231
+       </main-classification>
+      </classification-national>
+      <classification-national>
+       <country>
+        US
+       </country>
+       <main-classification>
+        2311-322
+       </main-classification>
+       <additional-info>
+        unstructured
+       </additional-info>
+      </classification-national>
+      <classification-national>
+       <country>
+        US
+       </country>
+       <main-classification>
+        2911
+       </main-classification>
+      </classification-national>
+      <classification-national>
+       <country>
+        US
+       </country>
+       <main-classification>
+        2919
+       </main-classification>
+      </classification-national>
+     </us-field-of-classification-search>
+     <figures>
+      <number-of-drawing-sheets>
+       4
+      </number-of-drawing-sheets>
+      <number-of-figures>
+       13
+      </number-of-figures>
+     </figures>
+     <us-related-documents>
+      <related-publication>
+       <document-id>
+        <country>
+         US
+        </country>
+        <doc-number>
+         20100281592
+        </doc-number>
+        <kind>
+         A1
+        </kind>
+        <date>
+         20101111
+        </date>
+       </document-id>
+      </related-publication>
+     </us-related-documents>
+     <parties>
+      <applicants>
+       <applicant app-type="applicant-inventor" designation="us-only" sequence="001">
+        <addressbook>
+         <last-name>
+          Lee
+         </last-name>
+         <first-name>
+          Henry Tae Joon
+         </first-name>
+         <address>
+          <city>
+           Los Angeles
+          </city>
+          <state>
+           CA
+          </state>
+          <country>
+           US
+          </country>
+         </address>
+        </addressbook>
+        <nationality>
+         <country>
+          omitted
+         </country>
+        </nationality>
+        <residence>
+         <country>
+          US
+         </country>
+        </residence>
+       </applicant>
+      </applicants>
+      <agents>
+       <agent rep-type="attorney" sequence="01">
+        <addressbook>
+         <orgname>
+          Clark Hill PLC
+         </orgname>
+         <address>
+          <country>
+           unknown
+          </country>
+         </address>
+        </addressbook>
+       </agent>
+      </agents>
+     </parties>
+     <examiners>
+      <primary-examiner>
+       <last-name>
+        Muromoto, Jr.
+       </last-name>
+       <first-name>
+        Bobby
+       </first-name>
+       <department>
+        3765
+       </department>
+      </primary-examiner>
+     </examiners>
+    </us-bibliographic-data-grant>
+    <abstract id="abstract">
+     A protective skirt for use in martial arts provides leg protectors for providing protection to the thighs of the user in the event of a full-forced attack to the thighs. The leg protectors are removable elements allowing the skirt to be used with out the leg protectors. Alternatively, the leg protectors can be integrated with the skirt.
+    </abstract>
+    <drawings id="DRAWINGS">
+    </drawings>
+    <description id="description">
+     FIELD OF THE INVENTION
+This invention is generally directed to a protective device for use in connection with martial arts.
+BACKGROUND OF THE INVENTION
+Often the practice of martial arts involves weapons lighting such as, for example, kendo (Japanese) and kumdo (Korean) sword fighting. In such practice, devices, for example, armor are used to protect the head, the body, and the hand/wrist. These devices allow the practitioner to practice the full extent of their art by allowing the practitioner to strike with full force while avoiding injury to the practitioner's partner. In the practice of sword fencing in kendo and kumdo for instance, a bamboo sword is used to strike the following areas: the head (men-Japanese/mori-Korean), the wrist (kote-Japanese/son-Korean), the waist (do-Japanese/hori-Korean), and the throat (tsuki-Japanese/mok-Korean) and the traditional armor 10 as shown in FIG. 1 is made to protect these areas. The traditional armor 10 generally includes a helmet 12, a chest plate 14, gloves 16, and a skirt 20. The skirt 20 protects the hips and legs in case of a slip from the strike to the waist. The skirt 20 (“tare” in Japanese and “kapsang” in Korean) is constructed from heavy canvas. Because the hips and thighs are not “legal” targets in sword fighting, the skirt provides only moderate protection but does not protect against a full-forced attack.
+The skirt 20 is shown in greater detail in FIG. 2. The skirt 20 includes a belt 22 and a plurality of primary panels 24 and secondary panels 26 extending from the belt. The primary panels 24 overlap the secondary panels 26. The skirt 20 includes ties 28 extending from either end of the belt 22. To wear the skirt 20, the user positions the belt 22 such that the secondary panels 26 are proximate the body. The belt 22 is wrapped around the user's waist to provide primary and secondary panels 24, 26 extending in front of and behind the user. The ties 28 are crossed behind the user and then brought together in front of the user where they are tied together to secure the skirt 20 to the user. The secured ties 28 are positioned under one of the panels 24 of the skirt to avoid in advertent untying of the skirt 20.
+SUMMARY OF THE INVENTION
+Briefly, the present invention discloses a leg protector for attachment to the skirt 20 to provide a protective skirt including a leg protector which protects the thighs of the user from a full-forced attack during sword fighting.
+
+BRIEF DESCRIPTION OF THE DRAWINGS
+The organization and manner of the structure and operation of the invention, together with further objects and advantages thereof, may best be understood by reference to the following description, taken in connection with the accompanying drawings, wherein like reference numerals identify like elements in which:
+FIG. 1 is a perspective view of prior art body armor;
+FIG. 2 is a perspective view of the skirt of the prior art body armor;
+FIG. 3 is a perspective view of the protective skirt;
+FIG. 4 is a front elevated view of a portion of the protective skirt;
+FIG. 5 is a rear elevated view of a portion of the protective skirt;
+FIG. 6 is front perspective view of the sock of the leg protector;
+FIG. 7 is a rear perspective view of the sock of the leg protector;
+FIG. 8 is a front elevated view of the shield of the leg protector;
+FIG. 9 is a rear elevated view of the shield of the leg protector;
+FIG. 10 is an elevated view showing attachment of the sock to the skirt;
+FIG. 11 is an elevated view showing the sock in its final position;
+FIG. 12 in a front elevated view showing attachment of the shield of the leg protector to the sock; and
+FIG. 13 is a rear elevated view of the protective skirt with the leg protector attached.
+
+DETAILED DESCRIPTION OF THE ILLUSTRATED EMBODIMENT
+While the invention may be susceptible to embodiment in different forms, there is shown in the drawings, and herein will be described in detail, a specific embodiment with the understanding that the present disclosure is to be considered an exemplification of the principles of the invention, and is not intended to limit the invention to that as illustrated and described herein.
+As shown in FIG. 3 the present invention provides a protective skirt 30 which provides protection of the user's legs during sword fighting or stick fighting sports in which the rules and method of play allow for full-forced strikes to the legs. A new sword fighting sport which allows for such full-forced strikes to the legs has been named by its creator as “Gumtoogi” and a new stick fighting sport allowing for such strikes has been named by its creator as “Bongtoogi”. The protective skirt 30 includes a left leg protector 32 and a right leg protector 34 each of which provides a strike panel to protect the users upper legs and in particular the thighs in the event of a full-forced attack, allowing these areas to become primary targets. The protective skirt 30 can be provided by adapting the skirt 20 shown in FIG. 2.
+The protective skirt 30 is shown in greater detail in FIGS. 4 and 5. As shown in FIGS. 4 and 5, the protective skirt 30 is provided by modifying the skirt 20. Each leg protector 32, 34 includes a sock 36 and a shield 38. The leg protectors 32, 34 are identical to one another and therefore only the leg protector 32 will be described in detail with the understanding that the same description applies to the leg protector 34.
+As shown in FIGS. 6 and 7, the sock 36 is generally tubularly-shaped with a generally oval cross-section to generally provide a front portion 39 and a rear portion 40. The sock 36 generally includes an outer surface 42, an inner surface 44, an upper end face 46, and a lower end face 48. A panel passage 50 is defined by the sock 36 for receiving a panel 24 of the skirt as will be described herein. An attachment mechanism 52 is provided on the outer surface 42 of the sock 36 at the front portion 39 and a pair of attachment mechanisms 54 is provided on the outer surface 42 of the sock 36 at the rear portion 40. The attachment mechanisms 52, 54 are for example, mating hook and loop type fasteners. The dimensions of the sock 36 will vary depending upon the size of the user. The dimension of the sock 36 may, for example, have a width of approximately 6⅞″ and a height of approximately 10⅛″.
+The shield 38 is best shown in FIGS. 8 and 9. The shield 38 generally includes a strike panel 60 and support straps 62. The strike panel 60 is generally trapezoidally-shaped and includes a front surface 64, a rear surface 66, an upper end 68 and a lower end 70. The width of the upper end 68 is smaller than the width of the lower end 70. A plurality of slats 72 are mounted to the front surface 64 of the strike panel 60. The slats 72 are made, for example, from bamboo or plastic. The slats 72 are attached to the strike panel 60 with, for example, leather string 74. An attachment mechanism 76 such as, for example, a loop and hook-type fastener is provided on the rear surface 66 of the strike panel 60 for attachment of the shield 38 to the sock 36 as will be described herein. The shield is preferably formed from heavy cotton canvas and filed with padding. The dimensions of the strike panel will vary depending upon the size of the user. The dimensions of the strike panel may, for example have a width of approximately 6.5 to 6.75 inches at the upper end, a width of approximately 10″ to 10.75″ at the lower end, and a height of approximately 15.5″ to 18″.
+The support straps 62 extend upwardly from the upper end 68 of the strike panel 60. Lower ends 78 of the straps 62 are attached to the strike panel 60 and upper ends 80 of the straps are free. Attachment mechanisms 82 are provided on the rear surface of the upper ends 80 of the straps 62. The attachment mechanisms 82 are, for example, hook and loop-type fasteners.
+As shown in FIG. 10, attachment of the leg protectors 32 to skirt 20 begins by sliding a primary panel 24 of the skirt 20 in panel passage 50 of the sock 36. The sock 36 is slid upwardly on the panel 24 until the upper end 46 of the sock 36 is proximate the belt 22 of the skirt 20, as shown in FIG. 11. The sock 36 is sized relative to the primary panel 24 such that a friction fit is provided between the inner surface 44 of the sock 36 and the panel 24 of the skirt 20. The sock 36 is mounted to the panel 24 so that the attachment mechanism 52 of the front portion 39 of sock 36 is directed away from the user.
+Next, as shown in FIG. 12, the shield 38 of the leg protector 32 is mounted to the sock 36 by mating the attachment mechanism 76 on the rear surface 66 of the leg protector 32 to the attachment mechanism 52 on the front portion 39 of the sock 36. As shown in FIG. 13, the support straps 62 are then wrapped over the belt 22 of the skirt 20 and downwardly. The attachment mechanisms at 82 the free ends 80 of the straps 62 are then mated with the attachment mechanisms 54 on the rear portion of the sock 36 to secure the shield 38 to the skirt 20.
+Attachment of the leg protectors 32, 34 to the skirt 20 therefore provides a protective skirt which not only protects the user from inadvertent hits to the legs, but also provides for protection from full-forced attacks to the legs. The skirt 30, therefore includes protection to the upper legs as is necessary for the sport of Gumtoogi and Bongtoogi. In addition, the skirt 30 allows for removal of the leg protectors 32, 34 should the user choose to remove them, for example for use in Kendo or Kumdo. The removable leg protectors 32, 34 therefore eliminate the need for the user to purchase different skirts for each sport. Although hook and loop type fasteners and a sock 36 were described for attaching the shield of the leg protector to the skirt 20, other methods of attaching the leg protector are within the scope of the invention. For example, snaps may be used to mate the shields 38 to the sock 36. Alternatively the leg protectors could be tied to the skirt 20 to provide the protective skirt 30.
+Although the skirt 30 has been described as including removable leg protectors 32, 34, it is to be understood that the leg protectors 32, 34 can also be permanently integrated in the skirt 30. In the case of permanent attachment of the leg protectors 32, 34, the sock 36 is not required and attachment mechanisms 52, 54, 76 and 82 are not required. Rather, the leg protectors 32, 34 are permanently attached to the belt 22 of the skirt 30 by, for example, sewing the leg protector 32, 34 to the belt 22 or to the panels 24 of the skirt 30.
+Although the leg protectors have been described as being formed from heavy cotton canvas material, it is to be understood that a variety of materials can be used to form the leg protectors so long as the material serves to sufficiently protect the legs of the user from full-forced attacks to the legs, allowing the legs to become viable targets.
+While preferred embodiments of the present invention are shown and described, it is envisioned that those skilled in the art may devise various modifications of the present invention without departing from the spirit and scope of the appended claims.
+    </description>
+    <us-claim-statement>
+     The invention claimed is:
+    </us-claim-statement>
+    <claims id="claims">
+     <claim id="CLM-00001" num="00001">
+      1. A protective skirt comprising:
+a skirt having a belt and a plurality of panels depending from said belt;
+a sock defining a panel passage, said sock including a front attachment mechanism and a rear attachment mechanism, wherein one of said panels of said skirt is positioned within said panel passage;
+a leg shield including a strike panel having a front surface and a rear surface, an attachment mechanism on said rear surface of said strike panel, and an attachment strap including an attachment mechanism; and
+wherein said attachment mechanism on said rear surface of said leg shield mates with said front attachment mechanism of said sock and said attachment mechanism of said strap mates with said rear attachment mechanism of said sock.
+     </claim>
+     <claim id="CLM-00002" num="00002">
+      2. The protective skirt of claim 1, wherein said strike panel is generally trapezoidally-shaped.
+     </claim>
+     <claim id="CLM-00003" num="00003">
+      3. The protective skirt of claim 1, wherein said strike panel of said leg shield further includes impact slats.
+     </claim>
+     <claim id="CLM-00004" num="00004">
+      4. The protective skirt of claim 3, wherein said impact slats are formed from bamboo.
+     </claim>
+     <claim id="CLM-00005" num="00005">
+      5. The protective skirt of claim 1, wherein said front attachment mechanism of said sock and said attachment mechanism on said rear surface of said strike panel are hook and loop type fasteners.
+     </claim>
+     <claim id="CLM-00006" num="00006">
+      6. The protective skirt of claim 1 wherein said rear attachment mechanism of said sock and said attachment mechanism of said strap are hook and loop type fasteners.
+     </claim>
+     <claim id="CLM-00007" num="00007">
+      7. The protective skirt of claim 1 wherein said channel of said sock is sized to provide a friction fit with the panel.
+     </claim>
+     <claim id="CLM-00008" num="00008">
+      8. The protective skirt of claim 1, wherein said attachment strap of said leg shield extends over said belt of said skirt.
+     </claim>
+     <claim id="CLM-00009" num="00009">
+      9. The protective skirt of claim 1, wherein said sock and leg shield are removably mounted to said skirt without requiring alteration to said skirt.
+     </claim>
+     <claim id="CLM-00010" num="00010">
+      10. The protective skirt of claim 1, wherein a first of said panels of said skirt is received by a first sock and a second of said panels of said skirt is received by a second sock.
+     </claim>
+    </claims>
+   </us-patent-grant>
+  </p>
+ </body>
+</html>
