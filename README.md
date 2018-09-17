@@ -1,8 +1,8 @@
 # ENGIE4800 - Data Science Capstone
 
-This is a repsoitory for the code necessary for our project with GS.
+This is the code/work to replicate the topic model we built for Latent Patent Classification. An additional write up on the Columbia Data Science website can be found [here](https://industry.datascience.columbia.edu/project/mapping-us-patent-applications).
 
-**Table of Contributors:**
+**Contributors:**
 
 Name | GitHub Username | Email 
 ---  | ---      | --- 
