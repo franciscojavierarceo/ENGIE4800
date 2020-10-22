@@ -4,13 +4,13 @@ This is the code/work to replicate the topic model my classmates and I built for
 
 **Contributors:**
 
-Name | GitHub Username | Email 
+Name | GitHub Username 
 ---  | ---      | --- 
-Abdus Khan |  @akhan3674 | k3674@columbia.edu
-Francisco Arceo |  @franciscojavierarceo | fja2114@columbia.edu
-Gabrielle Agrocostea | @gabya06 | gda208@columbia.edu
-Justin Law | @totakeke | jhl2184@columbia.edu
-Tony Paek | @tonypaek | sp3298@columbia.edu
+Abdus Khan |  @akhan3674 
+Francisco Arceo |  @franciscojavierarceo
+Gabrielle Agrocostea | @gabya06 
+Justin Law | @totakeke 
+Tony Paek | @tonypaek
 
 ----------------
 ### Stages
